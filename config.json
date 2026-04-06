@@ -1,0 +1,11 @@
+{
+  "setup_script": "setup_mT5.sh",
+  "instance_type": "g4dn.xlarge",
+  "ami_id": "ami-02a912b010cf774bd",
+  "python_script": "train_mT5.py",
+  "ssh_user": "ubuntu",
+  "working_dir": "E:\\Test_JP",
+  "save_dir": "E:\\Test_JP\\results",
+  "save_data": true,
+   "save_ebs_volume": true
+  }
