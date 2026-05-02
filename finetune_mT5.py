@@ -146,15 +146,15 @@ def compute_metrics(eval_pred):
         predictions=decoded_preds,
         references=decoded_labels
     )
-    # bleu_score = bleu.compute(
-    #     predictions=decoded_preds,
-    #     references=decoded_labels,
-    #     smooth=True
-    # )
-    # meteor_score = meteor.compute(
-    #     predictions=decoded_preds,
-    #     references=decoded_labels
-    # )
+    bleu_score = bleu.compute(
+        predictions=decoded_preds,
+        references=decoded_labels,
+        smooth=True
+    )
+    meteor_score = meteor.compute(
+        predictions=decoded_preds,
+        references=decoded_labels
+    )
     bert_results = bert_score.compute(
         predictions=decoded_preds, 
         references=decoded_labels, 
@@ -164,8 +164,8 @@ def compute_metrics(eval_pred):
 
     return {
         **rouge_scores,
-        # "bleu": bleu_score["bleu"],
-        # "meteor": meteor_score["meteor"],
+        "bleu": bleu_score["bleu"],
+        "meteor": meteor_score["meteor"],
         "bertscore_f1": np.mean(bert_results["f1"])
     }
 
@@ -259,8 +259,8 @@ for sample in test_data:
         "reference_summary": sample["summary"],
         "generated_summary": prediction,
         "rouge_scores": {k: round(v, 4) for k, v in indiv_rouge.items()},
-        # "bleu_score": round(indiv_bleu["bleu"], 4),
-        # "meteor_score": round(indiv_meteor["meteor"], 4),
+        "bleu_score": round(indiv_bleu["bleu"], 4),
+        "meteor_score": round(indiv_meteor["meteor"], 4),
         # "bertscore_f1": round(indiv_bert["f1"][0], 4)
     })
 
@@ -268,19 +268,19 @@ for sample in test_data:
     all_labels.append(sample["summary"])
 
 aggregate_rouge = rouge.compute(predictions=all_preds, references=all_labels)
-aggregate_bert = bert_score.compute(predictions=all_preds, 
-                                    references=all_labels, 
-                                    lang="vi", 
-                                    model_type="bert-base-multilingual-cased")
-avg_bert_f1 = float(np.mean(aggregate_bert["f1"]))
-avg_bert_p = float(np.mean(aggregate_bert["precision"]))
-avg_bert_r = float(np.mean(aggregate_bert["recall"]))
+# aggregate_bert = bert_score.compute(predictions=all_preds, 
+#                                     references=all_labels, 
+#                                     lang="vi", 
+#                                     model_type="bert-base-multilingual-cased")
+# avg_bert_f1 = float(np.mean(aggregate_bert["f1"]))
+# avg_bert_p = float(np.mean(aggregate_bert["precision"]))
+# avg_bert_r = float(np.mean(aggregate_bert["recall"]))
 final_output = {
     "individual_results": results,
     "aggregate_rouge": {k: round(v, 4) for k, v in aggregate_rouge.items()},
-    "aggregate_bertscore_f1": round(avg_bert_f1, 4),
-    "aggregate_bertscore_precision": round(avg_bert_p, 4),
-    "aggregate_bertscore_recall": round(avg_bert_r, 4)
+    # "aggregate_bertscore_f1": round(avg_bert_f1, 4),
+    # "aggregate_bertscore_precision": round(avg_bert_p, 4),
+    # "aggregate_bertscore_recall": round(avg_bert_r, 4)
 }
 
 print("Saving JSON...")
@@ -288,11 +288,11 @@ output_file = os.path.join(EBS_JSON_PATH, "020526_rouge1_fulltext_10k_3epoch.jso
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(final_output, f, ensure_ascii=False, indent=4)
 # Download finetuned model if needed
-print("Compressing model for local download...")
-zip_base_name = os.path.join(EBS_JSON_PATH, "mt5_finetuned_model")
-shutil.make_archive(zip_base_name, 'zip', EBS_MODEL_DIR)
-model_zip_full_path = zip_base_name + ".zip"
-print("Copy model to local...")
-print(json.dumps([output_file, model_zip_full_path]))
+# print("Compressing model for local download...")
+# zip_base_name = os.path.join(EBS_JSON_PATH, "mt5_finetuned_model")
+# shutil.make_archive(zip_base_name, 'zip', EBS_MODEL_DIR)
+# model_zip_full_path = zip_base_name + ".zip"
+# print("Copy model to local...")
+# print(json.dumps([output_file, model_zip_full_path]))
 print(json.dumps([output_file]))
 print("true")
