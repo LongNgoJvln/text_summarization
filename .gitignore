@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.env
+.venv/
+venv.bak/
+
+# Logs and output
+log/
+outputs/
+*.log
+*.json
+
+# Hugging Face and tokenizers cache
+.cache/huggingface/
+.cache/tiktoken/
+
+# AWS / EC2 artifacts
+EBS_Volume_info.json
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#keypairs
+*.pem
+
+#results
+results/
+output/
