@@ -1,0 +1,1313 @@
+{
+    "individual_results": [
+        {
+            "id": "140521_china_ambassador_oil_rig",
+            "url": "https://www.bbc.com/vietnamese/vietnam/2014/05/140521_china_ambassador_oil_rig",
+            "text": "Giàn khoan duy nhất của chúng tôi nằm ở vùng biển không hề có tranh chấp . ” Đại sứ Thôi nói tiếp : “ Thứ ba , chúng tôi chỉ có tàu chính phủ và dân sự tại đó , nhưng Việt Nam có tàu quân sự , tàu vũ trang , đây là sự thật . Những gì đang xảy ra ở Việt Nam cũng cùng bản chất như những gì đang xảy ra trên biển , ” Đại sứ Trung Quốc lớn tiếng . Trong cuộc phỏng vấn dài trên CNN , ông Thôi Thiên Khải cũng nhắc lại các hòn đảo trên biển Hoa Đông , mà Bắc Kinh gọi là Điếu Ngư còn Nhật Bản gọi là Senkaku , là “ lãnh thổ vốn có của Trung Quốc ” .",
+            "reference_summary": "Đại sứ Trung Quốc ở Mỹ công kích Việt Nam trong vụ giàn khoan trên Biển Đông trong dấu hiệu cho thấy Bắc Kinh không nhượng bộ.",
+            "generated_summary": "Thô Thiên Khải sẽ xảy ra những tàu quân chính phủ và dânsự của Trung Quốc ở Việt Nam.",
+            "rouge_scores": {
+                "rouge1": 0.5882,
+                "rouge2": 0.1818,
+                "rougeL": 0.2353,
+                "rougeLsum": 0.2353
+            }
+        },
+        {
+            "id": "world-52225964",
+            "url": "https://www.bbc.com/vietnamese/world-52225964",
+            "text": "Sau lần tấn công đầu tiên vào WHO hôm thứ Ba , Tổng thống Trump tiếp tục đưa ra chỉ trích trong cuộc cuộc họp báo vào thứ Tư , nói rằng tổ chức này phải \" đặt ưu tiên của mình một cách đúng đắn \" . Ông nói rằng Hoa Kỳ sẽ xem xét để quyết định có tiếp tục tài trợ WHO hay không , Cũng trả lời các câu hỏi tại cuộc họp họp tối thứ Tư , Ngoại trưởng Hoa Kỳ Mike Pompeo nói rằng chính phủ đang \" đánh giá lại việc có tiếp tục tài trợ cho WHO hay không . ' Các cuộc tấn công của ông Trump vào WHO diễn ra trong bối cảnh chính quyền của ông bị chỉ trích về cách đối phó với đại dịch . Ông ấy đã tái khẳng định lòng tin của mình , sự ủng hộ của ông ấy đối với tổ chức này và không chấp nhận việc nhìn nó bị mắc kẹt trong một cuộc chiến giữa Trung Quốc và Hoa Kỳ \" , một quan chức của văn phòng tổng thống Pháp nói với hãng tin Reuters .",
+            "reference_summary": "Người đứng đầu Tổ chức Y tế Thế giới (WHO) kêu gọi đoàn kết, khi tổ chức này tiếp tục bị Tổng thống Donald Trump chỉ trích.",
+            "generated_summary": "Người Hoa Kỳ Donald Trump nói rằng các cuộc họp tối thứ Tư.",
+            "rouge_scores": {
+                "rouge1": 0.5246,
+                "rouge2": 0.1017,
+                "rougeL": 0.2623,
+                "rougeLsum": 0.2623
+            }
+        },
+        {
+            "id": "070502_israel_olmert",
+            "url": "https://www.bbc.com/vietnamese/worldnews/story/2007/05/070502_israel_olmert",
+            "text": "Bà Tzipi Livni nói bà sẽ không từ chức hoặc tìm cách lật đổ ông Olmert nhưng bà sẽ ra ứng cử vào chức vụ của ông . Một phát ngôn viên của ông Olmert nói ông Olmert sẽ không từ chức nhưng sẽ \" sửa những sai lầm \" được nêu ra trong bản phúc trình . Trong một sự chỉ trích nặng nề hơn người ta tưởng , bản tường trình nói ông Olmert đã ra quyết định một cách vội vã khi trong tay chưa có kế hoạch quân sự cụ thể . Trước đó , ông Olmert đã chủ trì một cuộc họp nội các trong đó ông chấp nhận những chỉ trích của bản phúc trình nhưng quả quyết rằng đây chưa phải lúc để ông từ chức .",
+            "reference_summary": "Ngoại trưởng Israel, bà Tzipi Livni, kêu gọi Thủ tướng Ehud Olmert nên từ chức sau khi ông bị chỉ trích nặng nề về cách thức giải quyết cuộc chiến tại Lebanon hồi năm ngoái.",
+            "generated_summary": "Việc ông sẽ không từng chấp chức vài những chỉ trích của bản phúc trình.",
+            "rouge_scores": {
+                "rouge1": 0.3704,
+                "rouge2": 0.0506,
+                "rougeL": 0.2469,
+                "rougeLsum": 0.2469
+            }
+        },
+        {
+            "id": "080621_skorea_us_beefexports",
+            "url": "https://www.bbc.com/vietnamese/regionalnews/story/2008/06/080621_skorea_us_beefexports",
+            "text": "Tuyên bố của Nam Hàn cho biết thỏa thuận này đạt được sau những đàm phán tại Washington giữa các quan chức thương mại hàng đầu của Nam Hàn và Mỹ . Nam Hàn từng là thị trường lớn cho thịt bò của Mỹ , nhưng nước này đã ngừng nhập khẩu từ năm 2003 sau khi có một trường hợp \" bò điên \" bị phát hiện . Phát biểu tại Seoul hôm Thứ Bảy , Bộ trưởng Nông nghiệp Nam Hàn Chung Woon - chun cho biết hai bên đã nhất trí rằng \" thịt bò Mỹ từ gia súc 30 tháng tuổi trở lên sẽ không được xuất vào thị trường Nam Hàn cho đến khi niềm tin của người tiêu dùng được khôi phục . \" Thỏa thuận này đạt được sau những đàm phán liên tục tuần qua giữa Bộ trưởng Thương mại Nam Hàn Kim Jong - hoon và Đại diện Thương mại Mỹ Susan Schwab .",
+            "reference_summary": "Nam Hàn tuyên bố Hoa Kỳ đã đồng ý không xuất khẩu sang Nam Hàn thịt bò từ gia súc hơn 30 tháng tuổi nhằm giải tỏa quan ngại về an toàn thực phẩm.",
+            "generated_summary": "Bộ trưởng Thương mại Nam Hàn Kim Jong-Lân tại Mỹ nói rằng những thị trường lớn của các quan chức trung tâm thứ mới đạt được một thành phố trong nước này.",
+            "rouge_scores": {
+                "rouge1": 0.5825,
+                "rouge2": 0.0792,
+                "rougeL": 0.2913,
+                "rougeLsum": 0.2913
+            }
+        },
+        {
+            "id": "world-44249573",
+            "url": "https://www.bbc.com/vietnamese/world-44249573",
+            "text": "Ông Arkady Babchenko là một nhà báo Nga nổi tiếng và là cựu chiến binh trong các cuộc chiến Chechya Vợ ông phát hiện ông nằm chảy máu ở lối vào khu căn hộ nhà ông , nhưng Babchenko qua đời khi đang trên đường đến bệnh viện . Sau khi viết về chiếc máy bay quân sự của Nga bị rơi hồi 2016 , ông Babchenko từng nói ông nhận được các lời đe dọa ám sát và phải rời khỏi Nga . Các cảnh sát Ukraine canh gác lối vào khu căn hộ nhà ông Babchenko Chính trị gia Ukraine Anton Herashchneko nói ông Babchenko đi mua bánh mì , và kẻ giết ông đã đợi sẵn ở gần nhà ông . Trong quyển hồi ký của ông , Chiến tranh một người lính , kể lại trải nghiệm của ông trong các cuộc chiến , vốn đã cướp đi sinh mạng của hàng chục ngàn người ở cả hai bên chiến tuyến .",
+            "reference_summary": "Arkady Babchenko, nhà báo Nga và là một nhà phê bình điện Kremlin nổi tiếng, đã bị bắn chết ở Kiev, cảnh sát Ukraine cho biết.",
+            "generated_summary": "Phộu sự của các nhà báo tổng thống Nga đã được gặp lại ở khuyện vào khu căn hộ ông trong những cuộc chiến.",
+            "rouge_scores": {
+                "rouge1": 0.4507,
+                "rouge2": 0.087,
+                "rougeL": 0.2817,
+                "rougeLsum": 0.2817
+            }
+        },
+        {
+            "id": "world-42389078",
+            "url": "https://www.bbc.com/vietnamese/world-42389078",
+            "text": "Trump - Nga : Hành động của Flynn là ' hợp pháp ' Cố vấn của Trump nói dối về mối liên hệ với Nga Trả lời câu hỏi của giới truyền thông về việc liệu ông có đang xem xét sa thải ông Mueller , ông Trump trả lời : \" Không , tôi không hề . \" Trong lá thư của mình , ông Langhofer nói rằng nhân viên của GSA đã \" bất hợp pháp cung cấp các tài liệu cá nhân của TFA , kể cả những thông tin đặc biệt \" cho nhóm điều tra của ông Mueller . Tổng thống Trump bác bỏ thông tin sa thải Robert Mueller Luật sư của Trump phàn nàn rằng GSA \" không sở hữu hay kiểm soát các thông tin này \" và khẳng định đã vi phạm các quyền hiến định của các quan chức làm việc cho Trump . Trợ lý của GSA Lenny Loewentritt đã bác bỏ cáo buộc của ông Langhofer rằng GSA đã đảm bảo rằng các yêu cầu về hồ sơ của nhóm quan chức của Trump sẽ được thông qua với luật sư của nhóm này .",
+            "reference_summary": "Tổng thống Donald Trump phủ nhận ông có ý định sa thải công tố viên đặc biệt Robert Mueller, người đang điều tra nghi vấn Nga can thiệp vào cuộc bầu cử năm 2016.",
+            "generated_summary": "Thủ tướng Donald Trump đã bác bỏ cáo buộc của GSA và các nhà điều tra gọi thông tin trong một giả lời sẽ xét rằng cảm nốc với chính quyền mở Trung Queller ở Hà Nội.",
+            "rouge_scores": {
+                "rouge1": 0.5882,
+                "rouge2": 0.22,
+                "rougeL": 0.2941,
+                "rougeLsum": 0.2941
+            }
+        },
+        {
+            "id": "vietnam-48919415",
+            "url": "https://www.bbc.com/vietnamese/vietnam-48919415",
+            "text": "Có ý kiến cho rằng đại đa số người dân khi mua bán bất động sản đều ghi giá thấp so với giá thực tế nhưng hiếm khi thấy ai bị xử lý Theo báo Pháp Luật TP HCM , vợ chồng Luật sư Trần Vũ Hải \" được xác định có dấu hiệu phạm tội trên do đã ký giấy tờ mua bán nhà , đất giá thấp hơn giá giao dịch thực tế cả chục lần nhằm giúp người bán trốn thuế với số tiền 276 triệu đồng \" . Nha Trang là nơi xảy ra cáo buộc trốn thuế nhắm vào Luật sư Trần Vũ Hải ' Mâu thuẫn , lờ mờ ' Cùng ngày , Luật sư Nguyễn Duy Bình nói với BBC từ TP Hồ Chí Minh : \" Theo văn bản hướng dẫn trong trường hợp hợp đồng công chứng ghi giá thấp hơn bảng giá , cơ quan thuế có quyền áp dụng bảng giá để ấn định thuế nhằm mục đích thu đủ . \" \" Trong trường hợp Luật sư Trần Vũ Hải , tôi thấy cơ quan thuế đã áp theo giá 2,14 tỷ đồng ( hợp đồng ghi 1,8 tỷ đồng ) và đã thu theo mức này thì không thể cho rằng chưa thu đủ thuế . \" \" Trong khi đó , Điều 161 , Bộ luật Hình sự 2009 chỉ quy định chung chung ai có hành vi trốn thuế đủ 100 triệu đồng thì bị xử lý về tội trốn thuế nhưng trước nay hiện chưa có văn bản nào hướng dẫn cho phép cơ quan tiến hành tố tụng , cơ quan thuế có quyền tính thêm phần thuế trên mức bảng giá quy định - trên mức 2,14 tỷ đồng để xác định vi phạm . \"",
+            "reference_summary": "Một nữ luật sư ở Hà Nội đặt câu hỏi về \"trách nhiệm của cán bộ thuế\" trong các vụ cáo buộc \"trốn thuế\", trong khi đó một đồng nghiệp của bà nói với BBC rằng còn những điểm \"mâu thuẫn, lờ mờ\" trong luật và thông tư về thuế nhà đất.",
+            "generated_summary": "Bộ Luật sư Trần Vũ Hải nói tại TP Hồ Chí Minh, vợ chồng Trung Quốc đã xử lý về hợp đồng.",
+            "rouge_scores": {
+                "rouge1": 0.419,
+                "rouge2": 0.1165,
+                "rougeL": 0.2857,
+                "rougeLsum": 0.2857
+            }
+        },
+        {
+            "id": "070212_wifelesschinamen",
+            "url": "https://www.bbc.com/vietnamese/regionalnews/story/2007/02/070212_wifelesschinamen",
+            "text": "Bốn cậu bé ngồi bên cạnh một cô bé , xa xuống dưới là một cô bé buộc bím tóc mặc chiếc áo len hồng nổi lên giữa một nhóm con trai . Từ những năm cuối thập kỷ 70 , các đôi vợ chồng Trung Quốc chỉ được phép có một con và hầu hết bố mẹ đều muốn có con trai . Cô giáo Zheng , người đứng đầu tập thể giáo viên cho biết : \" Điều này đã đem lại tác động thực sự , một trong các lớp của chúng tôi có tỉ lệ 39 bé trai so với chỉ 8 bé gái . Anh có một chiếc xe máy , có áo da và tìm mọi cách để tạo ra một bề ngoài hấp dẫn nhất thế nhưng lại chẳng có ai để anh gây ấn tượng .",
+            "reference_summary": "Không khó để nhận ra những nan đề trong tương lai của Trung Quốc. Bạn có thể thấy chúng ngay trong bàn đầu của lớp mẫu giáo Hui Kang ở thành phố Huizhou.",
+            "generated_summary": "Nhóm giáo viên Trung Quốc đã đem tạo ra một số lớp của mình và một điểm.",
+            "rouge_scores": {
+                "rouge1": 0.4167,
+                "rouge2": 0.1429,
+                "rougeL": 0.25,
+                "rougeLsum": 0.25
+            }
+        },
+        {
+            "id": "vert-cap-37770084",
+            "url": "https://www.bbc.com/vietnamese/vert-cap-37770084",
+            "text": "Thế nhưng đứng trước những áp lực quanh ta - khi những đồng nghiệp được tán dương vì đi làm khi bị ốm , hoặc những sếp ra tuyên bố thẳng thắn rằng việc nghỉ ốm không được hoan nghênh - bên cạnh những lo ngại về công việc cũng như thu nhập ổn định , việc quyết định khi nào bạn đủ ốm để nghỉ ở nhà không phải luôn luôn là điều dễ . Bạn nên ở nhà khi cảm thấy đang ốm - đó là điều tưởng như dễ hiểu , thế nhưng sếp của bạn không phải lúc nào cũng có cùng suy nghĩ . Nếu người quản lý của bạn là người thường xuyên đi làm dù bị ốm , họ có thể sẽ có cùng kỳ vọng đối với nhân viên và những người dưới cấp có thể ngại nghỉ ốm hơn , \" Kinman nói . Có nhiều trường hợp người lao động không được trả lương khi nghỉ ốm nếu tổ chức của họ bị thiếu nhân sự hoặc áp dụng chính sách nghỉ ốm bừa bãi , hoặc nếu họ làm những công việc như chăm sóc sức khoẻ \" , Kinman nói .",
+            "reference_summary": "Nếu bạn nghĩ rằng từ 'wickie' là từ môn cricket hoặc tên một trang web nổi tiếng, nhiều khả năng bạn là một trong số rất nhiều người mò vào công sở để làm việc ngay cả khi ốm nặng.",
+            "generated_summary": "Nhưng những sếp của bạn đã bị ốm, tốt gọi lời những nghiên cứu trong việc ở nhập.",
+            "rouge_scores": {
+                "rouge1": 0.4494,
+                "rouge2": 0.092,
+                "rougeL": 0.2472,
+                "rougeLsum": 0.2472
+            }
+        },
+        {
+            "id": "081010_imf_emergency",
+            "url": "https://www.bbc.com/vietnamese/business/story/2008/10/081010_imf_emergency",
+            "text": "Sau khi bảy ngân hàng trung ương của các nền kinh tế lớn trên thế giới đã đồng loạt cắt giảm lãi suất nhằm bình ổn các thị trường tài chính , lãnh đạo IMF nói cần phải có thêm các hành động có phối hợp khác . Những diễn biến đáng chú ý bao gồm : ‘ Khủng hoảng cho con người ’ Ông Strauss - Kahn nói các diễn biến trong những tuần gần đây bắt đầu có tác động tới các nền kinh tế đang lên , do các dòng tín dụng bị cắt và mậu dịch bị thiệt hại vì nhu cầu từ các nước phương Tây đã giảm . Ông nói xuất khẩu sụt giảm cộng với chi phí tín dụng gia tăng sẽ tạo ra thất bại cho các doanh nghiệp tại các nước nghèo nhất , và trong một số trường hợp , có thể khiến các nước “ phá sản ” . Ông nói : “ Các nước sẽ có các hành động khác nhau , tùy thuộc vào các hoàn cảnh của họ , tuy nhiên , các hành động này cần phải hướng tới việc xử lý cùng các vấn đề cơ bản ” .",
+            "reference_summary": "Quỹ Tiền tệ Quốc tế IMF đã kích hoạt một cơ chế tài chính khẩn cấp nhằm giúp các nước đang bị thiệt hại vì cuộc khủng hoảng tài chính hiện nay.",
+            "generated_summary": "Íng các hành động của lãnh đạo kinh tế đã bắt giảm.",
+            "rouge_scores": {
+                "rouge1": 0.3143,
+                "rouge2": 0.0,
+                "rougeL": 0.1714,
+                "rougeLsum": 0.1714
+            }
+        },
+        {
+            "id": "culture-social-46786011",
+            "url": "https://www.bbc.com/vietnamese/culture-social-46786011",
+            "text": "Và họ biết bầu người của mình vào cái chỗ thay mặt họ lãnh đạo đất nước , \" ông Nguyễn Trọng Tạo nói với BBC , tỏ ý tin tưởng vào hướng đi đó trong lúc một phần dư luận chính thống vẫn cho rằng \" dân chủ đa nguyên \" chỉ đem lại hỗn loạn do người dân chưa trưởng thành . Chẳng biết hào quang nào làm lóa mắt một nhạc sĩ làm ông buông đàn cầm gươm chém tới cái cối xay gió và tự huyễn hoặc mình là người hiệp sĩ chính trị , ví như đã có lần ông so sánh mình với Nguyễn Khoa Điềm trong bài viết \" Hai bài thơ nhân dân của Nguyễn Khoa Điềm và Nguyễn Trọng Tạo \" . Ông Nguyễn Trọng Tạo từng viết thơ về cuộc chiến này , nói cả về sự phản bội của Bắc Kinh , cựu đồng minh của Bắc Việt Nam một thời : \" Khi đang đắm yêu nào tin được bao giờ Rồi một ngày người yêu ta đổi dạ Rồi một ngày thần tượng ta tan vỡ Bạn bè thân thọc súng ở bên sườn Sau cái bắt tay xoè một lưỡi da dao găm Kẻ tình nguyện giữ nhà muốn chiếm nhà ta ở Tấm ảnh Mao treo lẫn màu cờ đỏ Tay ta treo đâu nghĩ có một lần ! Nhưng nổi tiếng hơn cả là bài \" Hát ru em bé Campuchia \" của ông , viết năm 1978 : \" Đừng khóc nào , bé ơi Anh ru bằng tiếng Việt Em làm sao hiểu được Vậy mà anh cứ ru Đừng khóc nào … tháng Tư Trời xanh sang ngọn gió Nhìn dừa em có nhớ Hàng thốt nốt quê em ?",
+            "reference_summary": "Nhà thơ, nhạc sỹ, nhà báo Nguyễn Trọng Tạo, người có các bài thơ về cuộc chiến Campuchia đúng 40 năm trước, vừa qua đời tối 7/1 ở Hà Nội.",
+            "generated_summary": "Thành phố Nguyễn Khoa Điềm của Bắc Việt Nam vừa sẽ được những bài viết thơ về lãnh đạo chính trị tại Trung Quốc.",
+            "rouge_scores": {
+                "rouge1": 0.6265,
+                "rouge2": 0.1481,
+                "rougeL": 0.3614,
+                "rougeLsum": 0.3614
+            }
+        },
+        {
+            "id": "150506_skeleton_found_phangnga_camps",
+            "url": "https://www.bbc.com/vietnamese/world/2015/05/150506_skeleton_found_phangnga_camps",
+            "text": "Ba người Thái và một người Miến Điện đã bị bắt giữ ở Thái Lan do bị tình nghi tham gia hoạt động buôn người . Hố chôn người tập thể có 26 thi thể được phát hiện ở một khu trại bỏ hoang trong rừng gần với biên giới Malaysia – khu vực thường xuyên được những kẻ buôn người sử dụng . Các quan chức tin rằng những nạn nhân này bị những kẻ buôn người cầm giữ trong những khu trại này để đòi thân nhân đưa tiền chuộc . ‘ Cảnh sát không làm gì được ’ Quan chức địa phương bị cáo buộc họ đồng lõa với các nhóm buôn người Từ hiện trường ở tỉnh Phang Nga , phóng viên BBC Jonathan Head cho biết : “ Tôi đã từng đến những cánh rừng đước này trước đây để tìm những khu trại nơi mà những người Rohingya và Bangladesh cho chúng tôi biết họ đã bị giam giữ trong điều kiện đáng sợ .",
+            "reference_summary": "Các quan chức Thái Lan cho biết họ tìm thấy hai bộ xương nhiều khả năng có liên quan băng nhóm buôn người sau khi họ phát hiện 26 thi thể trong một hố chôn tập thể.",
+            "generated_summary": "Thái Lan đã bắt giữ những kẻ buôn người cầm sử dụng buộn người.",
+            "rouge_scores": {
+                "rouge1": 0.4103,
+                "rouge2": 0.1579,
+                "rougeL": 0.3333,
+                "rougeLsum": 0.3333
+            }
+        },
+        {
+            "id": "160317_nkorea_urged_free_student",
+            "url": "https://www.bbc.com/vietnamese/world/2016/03/160317_nkorea_urged_free_student",
+            "text": "Otto Warmbier , 21 tuổi , bị bắt hôm 2 / 1 khi chuẩn bị rời Bắc Hàn và bị buộc tội \" có hành vi thù nghịch \" Otto Warmbier , 21 tuổi , bị bắt vì đã cố lấy trộm một bức tranh cổ động tại khách sạn mà anh lưu trú trong thời gian thăm Bắc Hàn hồi tháng 1 / 2016 . Warmbier đã xuất hiện tại một buổi họp báo ở Bình Nhưỡng để ' thú tội ' Điều này có thể là do căng thẳng tăng cao ở thời điểm hiện tại giữa Bắc Hàn và Mỹ , ông nói . \" Sau đó anh đã xuất hiện trên truyền hình nhà nước , thú tội và nói một nhóm thuộc nhà thờ đã nhờ anh mang \" vật phẩm \" gì đó từ Bắc Hàn về nước . Việc công dân Mỹ du lịch đến Bắc Hàn là hợp pháp nhưng Bộ Ngoại giao Mỹ mạnh mẽ phản đối điều này Ông Richardson đã từng tham gia đàm phán về việc thả các công dân Mỹ bị Bắc Hàn giam giữ .",
+            "reference_summary": "Hoa Kỳ thúc giục Bình Nhưỡng thả ngay lập tức sinh viên Mỹ bị kết án 15 năm lao động khổ sai vì tội chống lại nhà nước Bắc Hàn.",
+            "generated_summary": "Tổng thống Mỹ Bắc Hàn (Otto Warmbier) đã bị buộc tội.",
+            "rouge_scores": {
+                "rouge1": 0.4262,
+                "rouge2": 0.2034,
+                "rougeL": 0.2295,
+                "rougeLsum": 0.2295
+            }
+        },
+        {
+            "id": "140917_ca_si_giang_tu_qua_doi",
+            "url": "https://www.bbc.com/vietnamese/vietnam/2014/09/140917_ca_si_giang_tu_qua_doi",
+            "text": "Ca sĩ Giang Tử mới sang định cư ở Mỹ gần đây Ông sang Mỹ định cư năm 2011 , theo báo Người Việt đặt ở Quận Cam , bang California . Sinh năm 1944 ở Hải Phòng , ông bắt đầu sự nghiệp ca hát từ cuối những năm 1950 . Sau năm 1975 , ông vẫn ở lại Việt Nam , tham gia các đoàn ca nhạc như Kịch Kim Cương , Hương Miền Nam , Xiếc Tuổi Trẻ . Trước đó , báo Người Việt dẫn lời ca sĩ Phương Hồng Quế : “ Sau khi mổ cổ họng vì bị ung thư , bác sĩ cấm anh hát liền , nhưng vì yêu nghề , yêu khán giả quá , nên anh vẫn cố gắng đi hát , đến nỗi bệnh trở nặng , không thể nói chuyện nhiều hay hát hò được nữa .",
+            "reference_summary": "Ca sĩ Giang Tử, được biết đến với những bài ca quê hương, vừa qua đời ở thành phố Houston, bang Texas, Hoa Kỳ ở tuổi 70.",
+            "generated_summary": "Gọi những sĩ Giang Tử mới sang Mỹ tổng định cư ở Hải Phòng vừa bắt.",
+            "rouge_scores": {
+                "rouge1": 0.6071,
+                "rouge2": 0.2222,
+                "rougeL": 0.3214,
+                "rougeLsum": 0.3214
+            }
+        },
+        {
+            "id": "160609_hangout_euro2016_opening",
+            "url": "https://www.bbc.com/vietnamese/vietnam/2016/06/160609_hangout_euro2016_opening",
+            "text": "Liệu đương kim vô địch Euro , tuyển Tây Ban Nha ở bảng D , đội bóng hai lần liên tục vô địch vào các năm 2008 và 2012 sẽ bảo vệ được ngôi vị của mình , nhất là sau khi họ vừa có hai câu lạc bộ ở giải ngoại hạng là Real Madrid và Atletico Madrid vừa tranh tài đỉnh cao ở trận chung kết Champions League ? Đây sẽ là một vài câu hỏi được các khách mời của Bàn tròn Thứ Năm tuần này của BBC Việt ngữ thảo luận , chương trình được bắt đầu từ lúc 19h30 - 20h00 giờ Việt Nam , ngày thứ Năm 09 / 6 / 2016 và được phát trực tuyến trên kênh Youtube của BBC Tiếng Việt tại đây . Các học trò của Huấn luyện viên Roy Hodgson mới có trận giao hữu có tính chuẩn bị gần nhất và cuối cùng trước khi sang Pháp vào thứ Năm tuần trước , khi họ thắng sát nút Bồ Đào Nha với tỷ số sát nút 1 - 0 ở các phút cuối . Và liệu tuyển Anh có kịp đúc rút kinh nghiệm qua các trận đấu tập huấn gần nhất để đối đầu thành công với chú gấu Nga và hai đội bóng còn lại trong bảng và đi sâu vào giải đấu ?",
+            "reference_summary": "Vòng chung kết giải Euro 2016 sẽ khởi tranh tại Pháp trong vòng 30 ngày từ ngày 10/6 tới ngày 10/7, với trận khai mạc giữa chủ nhà, tuyển Pháp và tuyển Romania ở bảng A vào lúc 20h00 giờ địa phương, trên sân vận động Stade de France ở thủ đô Paris.",
+            "generated_summary": "Thủ tục vô động hiệp đến các trận đấu xử của Trung Quốc và năm 2012.",
+            "rouge_scores": {
+                "rouge1": 0.28,
+                "rouge2": 0.0612,
+                "rougeL": 0.2,
+                "rougeLsum": 0.2
+            }
+        },
+        {
+            "id": "080119_iraq_festivalalert",
+            "url": "https://www.bbc.com/vietnamese/worldnews/story/2008/01/080119_iraq_festivalalert",
+            "text": "Căng thẳng dâng cao sau khi hàng chục người thiệt mạng do các vụ đụng độ giữa cảnh sát với một nhóm người , được cho là có liên hệ tới một giáo phái Shia , xảy ra hôm Thứ sáu tại hai thành phố ở miền nam . Các vụ đụng độ hôm Thứ Sáu tại Nasiriya và Basra bùng phát sau khi một loạt các vụ tấn công có phối hợp nổ ra , nhắm vào những người Shia đi lễ và các lực lượng an ninh . Bạo lực bùng phát khiến người ta e ngại là sẽ còn xảy ra thêm các vụ tấn công nữa trong thời gian Ashura , là dịp lễ kỷ niệm vụ sát hại Imam Hussein , người cháu trai của Đức Tiên Tri Muhammad hồi năm 680 . Các lễ kỷ niệm Ashra cũng từng là mục tiêu tấn công của các thành phần nổi dậy người Sunni .",
+            "reference_summary": "Giới chức Iraq đẩy mạnh công tác an ninh trong khi người Hồi giáo dòng Shia đang chuẩn bị kết thúc dịp lễ Ashurra, một trong những sự kiện tôn giáo quan trọng nhất của người Shia.",
+            "generated_summary": "Các vụ tấn công của Shia sẽ làm việm ở miền nam.",
+            "rouge_scores": {
+                "rouge1": 0.3377,
+                "rouge2": 0.0533,
+                "rougeL": 0.2078,
+                "rougeLsum": 0.2078
+            }
+        },
+        {
+            "id": "061218_nkorea_demands",
+            "url": "https://www.bbc.com/vietnamese/regionalnews/story/2006/12/061218_nkorea_demands",
+            "text": "Đòi hỏi này là một phần của bài diễn văn cứng rắn mà đoàn đại biểu Bắc Triều Tiên đọc trong phiên khai mạc hội đàm sáu bên mới được nối lại ở Bắc Kinh sau hơn một năm gián đoạn . Bình Nhưỡng nói không quan tâm liệu các nước khác có chấp nhận hiện trạng hạt nhân của mình hay không . Bắc Hàn tuyên bố nước này cần được đối xử một cách bình đẳng với Hoa Kỳ và nay cuộc hội đàm cần tập trung vào chủ đề giảm trừ vũ khí của các bên . Bắc Hàn đã tẩy chay đàm phán hồi tháng 11 năm ngoái để phản đối các trừng phạt của Mỹ , trong có liên quan tới các ngân hàng đặt tại Macau vốn bị cáo giác là tham gia rửa tiền cho Bình Nhưỡng .",
+            "reference_summary": "Bắc Hàn tuyên bố sẽ không cân nhắc ngừng chương trình hạt nhân của mình chừng nào các trừng phạt mà Liên Hiệp Quốc áp đặt lên nước này sau vụ thử bom hạt nhân hồi tháng Mười không được bãi bỏ.",
+            "generated_summary": "Bắc Hàn đã tẩy cuộc của các một đoàn đại biểu ở Trung Quốc vào nước.",
+            "rouge_scores": {
+                "rouge1": 0.42,
+                "rouge2": 0.0816,
+                "rougeL": 0.26,
+                "rougeLsum": 0.26
+            }
+        },
+        {
+            "id": "business-53737826",
+            "url": "https://www.bbc.com/vietnamese/business-53737826",
+            "text": "Các cửa hàng bán lẻ quần áo , sách vở và các mặt hàng không thiết yếu khác đã được mở cửa trở lại tại xứ Anh ( England ) vào ngày 15 / 6 , còn hoạt động xây dựng cũng đã tăng mạnh sau khi suy giảm nghiêm trọng hai tháng trước đó . Đây là mức giảm trong quý cao nhất kể từ thời điểm tháng Năm - tháng Bảy 2009 , là lúc cuộc khủng hoảng tài chính rơi vào thời điểm trầm trọng nhất . Tuy dữ liệu gần đây cho thấy việc phục hồi đang diễn ra , nhưng Ngân hàng Trung ương Anh Quốc không hy vọng là nền kinh tế sẽ trở lại được quy mô như thời điểm trước đại dịch cho tới sớm nhất là vào cuối năm sau . Ngân hàng Trung ương Anh Quốc ghi nhận rằng việc chi tiêu cho các hoạt động xã hội , chẳng hạn như đi ăn tiệm , đi xem hòa nhạc hay xem bóng đá , là nguồn thúc đẩy tăng trưởng tại Anh lớn hơn nhiều so với ở Mỹ hay các nước thuộc khối sử dụng đồng euro .",
+            "reference_summary": "Kinh tế sụt giảm kỷ lục trong thời gian từ tháng Tư tới tháng Sáu do các biện pháp phong tỏa phòng chống virus corona, khiến nước Anh chính thức bước vào suy thoái.",
+            "generated_summary": "Mộc Trung ương Anh Quốc đã trở lại tại Hà Nộ, nhưng trong các năm trưởng củng hoạt động xây dựng một số lĩnh đạo ở Anh.",
+            "rouge_scores": {
+                "rouge1": 0.4894,
+                "rouge2": 0.0652,
+                "rougeL": 0.2979,
+                "rougeLsum": 0.2979
+            }
+        },
+        {
+            "id": "100406_china_mekongdams",
+            "url": "https://www.bbc.com/vietnamese/world/2010/04/100406_china_mekongdams",
+            "text": "Nhiều khu vực sông Mekong chứng kiến nước cạn kỷ lục Nói chuyện tại hội nghị thượng đỉnh ở Thái Lan , thứ trưởng ngoại giao Trung Quốc nói nước sông cạn là do hạn hán chứ không phải do đập thủy điện . Các nhà hoạt động đổ lỗi các con đập của Trung Quốc trên sông Mekong đã góp phần làm mực nước sông giảm và tạo ra những thay đổi không thể đảo ngược được đối với hệ sinh thái của sông . “ Thống kê cho thấy các đợt hạn hán gần đây trên toàn lưu vực sông là do thời tiết hết sức khô hạn , và mực nước sông Mekong giảm không có gì liên quan tới việc phát triển các đập thủy điện ” . Ông Song Tao còn nói Trung Quốc đã tăng mức độ chia sẻ thông tin trong những tháng gần đây , nhấn mạnh tới việc nước này cấp dữ liệu về hai trạm thủy điện cho các nước dưới hạ nguồn từ tháng Ba .",
+            "reference_summary": "Trung Quốc bác bỏ các cáo buộc nói rằng các đập thủy điện của họ trên sông Mekong gây ra tình trạng cạn nước kỷ lục cho các quốc gia ở dưới hạ nguồn.",
+            "generated_summary": "Chủ sông Trung Quốc đã tăng mức độ để gả các cuộc bị thủy điện của nước Mekong.",
+            "rouge_scores": {
+                "rouge1": 0.5432,
+                "rouge2": 0.2785,
+                "rougeL": 0.3704,
+                "rougeLsum": 0.3704
+            }
+        },
+        {
+            "id": "140828_india_bank_accounts",
+            "url": "https://www.bbc.com/vietnamese/world/2014/08/140828_india_bank_accounts",
+            "text": "Hàng triệu người dân Ấn Độ không được tiếp cận dịch vụ tài chính Gần 40 % người dân Ấn Độ ít được tiếp cận với các dịch vụ tài chính và thường phải tìm đến những công ty cho vay với lãi suất cao . Ông Modi nói nhà nước và các ngân hàng tư nhân sẽ hỗ trợ cho kế hoạch này . Giới quan sát nói việc mang dịch vụ ngân hàng đến cho những người nghèo , vốn có thể không có cả giấy tờ tùy thân , sẽ là một thử thách . \" Tuy nhiên , Thống đốc Ngân hàng Trung ương Ấn Độ Raghuram Rajan nói ông hy vọng kế hoạch này sẽ giúp người nghèo “ tự chủ về kinh tế ” thông qua việc cung cấp bảo hiểm và vốn vay .",
+            "reference_summary": "Thủ tướng Ấn Độ Narenda Modi sắp triển khai kế hoạch mở tài khoản ngân hàng cho tất cả các hộ dân trên cả nước như một sáng kiến nhằm giúp đỡ người nghèo.",
+            "generated_summary": "Một ngân hàng Trung ương Ấn Độ nói vụ tài chính vào năm.",
+            "rouge_scores": {
+                "rouge1": 0.4722,
+                "rouge2": 0.2,
+                "rougeL": 0.3056,
+                "rougeLsum": 0.3056
+            }
+        },
+        {
+            "id": "world-54071039",
+            "url": "https://www.bbc.com/vietnamese/world-54071039",
+            "text": "Ấn Độ nói Quân Giải phóng Nhân dân Trung Quốc ( PLA ) tìm cách tiếp cận một vị trí tiền đồn của Ấn Độ và \" nổ một loạt súng chỉ thiên nhằm đe dọa chính binh sỹ của họ . \" Hồi 1996 , hai bên ký một thỏa thuận cấm dùng súng và chất nổ dọc Đường Kiểm soát Thực tế , mặc dù quân đội hai bên đã có lần va chạm . Tờ báo Global Times của Trung Quốc dẫn lời người phát ngôn của PLA , ông Trương Thư Lập ( Zhang Shuili ) , nói quân Ấn Độ đã \" băng qua Đường Kiểm soát Thực tế trái phép vào khu vực núi Shenpao gần bờ nam Hồ Pangong Tso , \" Động thái của Ấn Độ \" vi phạm nghiêm trọng thỏa thuận hai bên đạt được , gây căng thẳng trong khu vực ... và rất xấu xa về bản chất , \" ông Trương nói . Căng thẳng mới nhất xảy ra chỉ một ngày sau khi quân Ấn Độ cho giới chức Trung Quốc biết có tin thường dân Ấn Độ đã bị quân đội Trung Quốc bắt có ở khu vực gần biên giới có tranh chấp .",
+            "reference_summary": "Trung Quốc cáo buộc binh sỹ Ấn Độ băng qua biên giới trái phép ở khu vực có tranh chấp vùng Himalaya và nổ súng cảnh báo 'gây khiêu khích' đối với lính biên phòngTrung Quốc.",
+            "generated_summary": "Tổng thống Ấn Đô nói quân đội Trung Quốc sẽ tăng thẳng trong khu vực gần biên giới.",
+            "rouge_scores": {
+                "rouge1": 0.5,
+                "rouge2": 0.1707,
+                "rougeL": 0.2619,
+                "rougeLsum": 0.2619
+            }
+        },
+        {
+            "id": "130106_japan_defence_spending",
+            "url": "https://www.bbc.com/vietnamese/world/2013/01/130106_japan_defence_spending",
+            "text": "Chính phủ của ông Abe được dự đoán sẽ cứng rắn trong vấn đề chủ quyền Theo đó , Chính phủ của Đảng Dân chủ Tự do do ông Shizo Abe đứng đầu sẽ đưa ngân sách quốc phòng lên ít nhất là 4.770 tỷ yên , tương đương với 53,43 tỷ Mỹ kim . Trước đó , chi tiêu quân sự trong ngân sách ban đầu cho năm tài khóa 2012 do Chính phủ trước đây của Đảng Dân chủ đưa ra là 4.710 tỷ yên . Chính phủ của Thủ tướng Shinzo Abe đang xem xét tăng cường nhân lực cho Lực lượng phòng vệ và nâng cấp trang thiết bị cho lực lượng này , cũng theo Kyodo giữa lúc Trung Quốc đang tăng cường các hoạt động không quân và hải quân xung quanh một quần đảo do Nhật Bản kiểm soát mà Trung Quốc tuyên bố có chủ quyền trên Biển Hoa Đông . Theo người phát ngôn này thì máy bay chiến đấu Nhật được triển khai sau khi một máy bay của hải quân Trung Quốc bay cách quần đảo tranh chấp mà Trung Quốc gọi là Điếu Ngư còn Nhật gọi là Senkaku khoảng 210 km về phía bắc vào lúc 12h trưa .",
+            "reference_summary": "Chính phủ Nhật đã quyết định tăng chi tiêu quốc phòng lần đầu tiên trong vòng 11 năm cho năm tài khóa 2013 trong bối cảnh căng thẳng leo thang với Trung Quốc do tranh chấp chủ quyền, hãng tin Nhật Kyodo cho biết.",
+            "generated_summary": "Đảng Dân chủ ông S hizo Abe tăng cường nhân lực của Trung Quốc.",
+            "rouge_scores": {
+                "rouge1": 0.3516,
+                "rouge2": 0.0899,
+                "rougeL": 0.1978,
+                "rougeLsum": 0.1978
+            }
+        },
+        {
+            "id": "090116_boa_bailout",
+            "url": "https://www.bbc.com/vietnamese/business/story/2009/01/090116_boa_bailout",
+            "text": "Cục Ngân Khố Hoa Kỳ nói : \" Mục tiêu của chương trình này là nhằm nâng đỡ cho sự bình ổn của thị trường tài chính và qua đó củng cố nền kinh tế , bảo vệ công ăn việc làm cho người dân Mỹ , bảo vệ các khoản tiết kiệm cùng an toàn hưu trí . \" Cùng với khoản tiền 20 tỷ đô la bơm vào , Cục Ngân Khố sẽ \" cấp bảo đảm đối với khả năng có các khoản lỗ lớn bất thường bằng các khoản vay trị giá chừng 118 tỷ đô la . \" Thoả thuận này nhằm đảm bảo cho các khoản đầu tư địa ốc cư dân và địa ốc thương mại cùng các khoản nợ của các công ty . Bank of America đã nhận được 25 tỷ đô la vốn bơm từ Chương Trình Hỗ Trợ Các Khoản Tài Sản Gặp Khó Khăn , gọi tắt là TARP , một quỹ được thiết lập để cứu các ngân hàng khỏi cuộc khủng hoảng tài chính .",
+            "reference_summary": "Ngân hàng Bank of Americal sẽ nhận được 20 tỷ đô la tiền hỗ trợ từ chính phủ Hoa Kỳ cùng các khoản bảo đảm cho các tài sản xấu trị giá 118 tỷ đô la.",
+            "generated_summary": "Thủ tướng Hoa Kỳ, Hoa khỳ đã bảo vệ các khoản Tài sản gặp khó khăn của Việt Nam.",
+            "rouge_scores": {
+                "rouge1": 0.3158,
+                "rouge2": 0.027,
+                "rougeL": 0.1579,
+                "rougeLsum": 0.1579
+            }
+        },
+        {
+            "id": "world-56094433",
+            "url": "https://www.bbc.com/vietnamese/world-56094433",
+            "text": "Virus corona ở Bắc Hàn : Kim Jong - un tuyên bố ' thành công rực rỡ ' Bắc Hàn cảnh báo ' có ca nghi nhiễm virus đầu tiên ' Trung Quốc lo ngại về dịch Covid - 19 ở Bắc Hàn Bắc Hàn vẫn chưa ghi nhận ca nhiễm virus corona nào . Vào tháng 11 , Microsoft nói ít nhất 9 tổ chức y tế trong đó có Pfizer đã nằm trong tầm ngắm của các tổ chức được nhà nước ở Bắc Hàn và Nga hậu thuẫn . Microsoft nói các nhóm Bắc Hàn có tên Zinc and Cerium , và một nhóm của Nga có biệt danh Fancy Bear , chịu trách nhiệm . Đó là một xã hội đóng nhưng là một xã hội với các đội ngũ mạng tiên tiến , sẵn sàng nhắm vào các nước khác không chỉ vì bí mật mà thậm chí đơn thuần chỉ vì tiền .",
+            "reference_summary": "Theo các quan chức tình báo Hàn Quốc, Bắc Hàn đã tìm cách đánh cắp công nghệ vaccine Covid-19 từ công ty dược phẩm Pfizer của Mỹ.",
+            "generated_summary": "Bắc Hàn đã tấn công các xã hội đóng ở Hà Nội.",
+            "rouge_scores": {
+                "rouge1": 0.4,
+                "rouge2": 0.2414,
+                "rougeL": 0.3,
+                "rougeLsum": 0.3
+            }
+        },
+        {
+            "id": "071229_bhutto_deathdispute",
+            "url": "https://www.bbc.com/vietnamese/regionalnews/story/2007/12/071229_bhutto_deathdispute",
+            "text": "Một phát ngôn viên chính phủ nói vụ nổ bom khiến bà bị đập đầu vào chiếc xe , nhưng người của bà nói bà chết do vết thương đạn bắn . Dẫn lời từ cái được gọi là cuộc điện thoại bị nghe lén , Bộ Nội Vụ Pakistan nói vụ sát hại bà Bhutto đã được tiến hành theo lệnh của một \" lãnh tụ al - Qaeda \" có tên Baitullah Mehsud . Al - Qaeda và các tay súng ủng hộ Taleban được cho là đứng đằng sau hàng chục các vụ đánh bom tại Pakistan trong những năm gần đây , khiến hàng trăm người thiệt mạng , trong đó có nhiều nạn nhân là phụ nữ . \" Phát ngôn viên Bộ Nội Vụ Brig Cheema nói toàn bộ các đảm bảo an ninh có thể làm đều đã được áp dụng để bảo vệ bà Bhutto và rằng nếu bà cứ ngồi bên trong chiếc xe , rất có thể bà đã không thiệt mạng .",
+            "reference_summary": "Các ủng hộ viên của bà Benazir Bhutto không đồng ý với nhận định của chính phủ Pakistan về cái chết của bà.",
+            "generated_summary": "Thủ tướng Pakistan đã các vụ sát hại bà Bhutto.",
+            "rouge_scores": {
+                "rouge1": 0.3265,
+                "rouge2": 0.0,
+                "rougeL": 0.1633,
+                "rougeLsum": 0.1633
+            }
+        },
+        {
+            "id": "080829_viet_econ_report",
+            "url": "https://www.bbc.com/vietnamese/vietnam/story/2008/08/080829_viet_econ_report",
+            "text": "Bản báo cáo cho biết tình trạng tái nghèo ở khu vực nông thôn và miền núi gia tăng , và tỉ lệ hộ nghèo ở Việt Nam cuối năm 2008 sẽ là khoảng 14,5 % , cao hơn chỉ tiêu nhà nước đặt ra là 11 đến 12 % . Điều này là do tình trạng lạm phát , giá tiêu dùng tăng cao , trong khi tác động của các đợt thiên tai từ năm 2007 tại nhiều vùng ở VN vẫn chưa được khắc phục . Tuy nhiên , cán cân thương mại của Việt Nam bị cho là sẽ chênh lệch mạnh , do tình trạng nhập siêu ước tính sẽ ở mức cao kỷ lục năm nay , là khoảng từ 21 đến 23 tỉ USD. Báo cáo dự đoán đến cuối năm 2008 , tổng số vốn cam kết trong cả năm sẽ đạt tới 50 tỉ USD , trong khi số vốn thực sự thực hiện có thể đạt hơn 10 tỉ dollar .",
+            "reference_summary": "Lạm phát cao và tăng trưởng giảm sẽ có tác động mạnh tới các hộ nghèo tại Việt Nam trong năm 2008, theo một báo cáo mới ra của Bộ Kế hoạch và Đầu tư Việt Nam.",
+            "generated_summary": "Nhập siêu tại Hà Nô, đã làm vào năm nống được động của Việt Nam, một công trạng tái nghèo cới đời trong một nhà nước.",
+            "rouge_scores": {
+                "rouge1": 0.5657,
+                "rouge2": 0.1856,
+                "rougeL": 0.2626,
+                "rougeLsum": 0.2626
+            }
+        },
+        {
+            "id": "world-39328763",
+            "url": "https://www.bbc.com/vietnamese/world-39328763",
+            "text": "Quyết định này , đưa ra chín tháng sau khi dân Anh bỏ phiếu thông qua việc rút khỏi EU ( Brexit ) với 51,9 % phiếu thuận và 48,1 % phiếu chống , sẽ khởi động quá trình hai năm đàm phán để Anh Quốc \" ra đi \" . Anh Quốc và hai mặt đối nghịch của Brexit Thượng viện Anh thông qua luật Brexit Brexit : Tòa Tối cao nói cần phải được QH Anh phê chuẩn Hai năm cho đàm phán Phát ngôn nhân của Chính phủ Anh nói Đại sứ Anh tại EU , Sir Tim Barrow , đã thông báo cho Ủy ban châu Âu , đứng đầu là Chủ tịch Donald Tusk , vào sáng thứ Hai 20 / 3 rằng Anh sẽ kích hoạt Điều 50 vào thứ Tư tuần sau , ngày 29 / 3 . Lãnh đạo châu Âu thì nói họ muốn hoàn tất đàm phán trong 18 tháng để các điều khoản có thể mang ra Quốc hội châu Âu và Quốc hội Anh thông qua , cũng như thông qua tại đa số các quốc gia EU như yêu cầu bắt buộc . Bà Theresa May nói các dân biểu Anh sẽ có bỏ phiếu về các thỏa thuận mà bà đạt được sau này , nhưng ngay cả khi Nghị viện bác bỏ thì Anh Quốc vẫn rời khỏi EU.",
+            "reference_summary": "Ngày 29/3 tới Thủ tướng Anh Theresa May sẽ chính thức thông báo cho EU về việc Anh rút khỏi khối theo Điều 50 Hiệp ước Lisbon.",
+            "generated_summary": "Chính phủ Anh tại Anh đã bỏ phiếu thông báo cho Ủy ban châu Âu ở Anh.",
+            "rouge_scores": {
+                "rouge1": 0.4194,
+                "rouge2": 0.2,
+                "rougeL": 0.2903,
+                "rougeLsum": 0.2903
+            }
+        },
+        {
+            "id": "140328_china_japan_asia_disputes",
+            "url": "https://www.bbc.com/vietnamese/world/2014/03/140328_china_japan_asia_disputes",
+            "text": "Hãng tin Kyodo nói ông Abe ( phải ) đã đưa chuyện tranh chấp lãnh hải liên quan tới TQ ra hội nghị G7 Hãng tin Kyodo của Nhật Bản nói Thủ tướng Shinzo Abe đã đưa vấn đề tranh chấp chủ quyền biển ra hội nghị G7 ở The Hague vào tháng này và cảnh báo Trung Quốc đang cố ‘ gây sức ép để thay đổi tình hình , và sự kiện tương tự như Crimea có thể xẩy ra ở Châu Á . ’ Trung Quốc sau đó đã mạnh mẽ phản đối bình luận của ông Abe và cho rằng ông này là ‘ đạo đức giả . ” Ông Hồng Lỗi nói rằng Nhật Bản đã “ cướp giật ” bất hợp pháp quần đảo không người ở mà phía Trung Quốc gọi là Điếu Ngư , còn phía Nhật gọi là Senkaku . Tuyên bố chủ quyền của Trung Quốc ở vùng biển Đông giàu tài nguyên cũng khiến Bắc Kinh có mâu thuẫn với Việt Nam và Philippines , trong khu vực mà cả Đài Loan , Malaysia , và Brunei cũng tuyên bố lãnh thổ .",
+            "reference_summary": "Trung Quốc tức giận phản ứng trước việc Thủ tướng Nhật Bản Shinzo Abe so sánh hành động của Bắc Kinh trong các tranh chấp lãnh hải trên biển Hoa Đông và Biển Đông với hành động của Nga trong vấn đề Crimea, theo hãng tin Reuters.",
+            "generated_summary": "Thủ tướng Shinar Shinzo Abe nói Trung Quốc đang tranh chấp lãnh hội nghị G7 ở Bangkok.",
+            "rouge_scores": {
+                "rouge1": 0.3656,
+                "rouge2": 0.2418,
+                "rougeL": 0.2796,
+                "rougeLsum": 0.2796
+            }
+        },
+        {
+            "id": "080807_ilo_director",
+            "url": "https://www.bbc.com/vietnamese/vietnam/story/2008/08/080807_ilo_director",
+            "text": "Tại cuộc hội thảo vừa qua về đối phó với lạm phát từ góc nhìn doanh nghiệp , Hội các nhà Quản trị Doanh nghiệp ( VACD ) , thuộc Liên hiệp các Hội Khoa học và Kỹ thuật Việt Nam ( VUSTA ) , nhiều doanh nghiệp cho hay buộc phải xem lại quỹ lương và điều chỉnh nhân sự của mình do lạm phát . Ông nói \" Nhiều doanh nghiệp hiện đang phải cắt giảm lao động và rõ ràng là điều này đang ảnh hưởng tới đời sống của nhiều lao động và sự tồn tại của các doanh nghiệp Việt Nam , nhất là các doanh nghiệp vừa và nhỏ . \" Tôn Thiện Chiếu , chuyên gia về đình công và lao động ở Viện Xã hội học tại Hà Nội cho hay : \" Hiện vẫn chưa có các hệ thống chính sách , quỹ hay bảo hiểm cho người lao động cũng như hỗ trợ chính các doanh nghiệp gặp khó khăn khi khủng hoảng kinh tế và lạm phát diễn ra . \" Tuy nhiên , trong bối cảnh hiện nay , ông Chiếu cũng đưa ra lời khuyên cho cả hai giới lao động và chủ , theo đó , ông cho rằng hai bên cần tăng cường sự trao đổi , thoả thuận và thông cảm lẫn nhau : \" Công nhân cũng cần thông cảm với chủ vì nếu đòi hỏi quá mức , doanh nghiệp phá sản , sẽ không có cả 100.000 hay 200.000 nghìn đồng đòi hỏi đó nữa .",
+            "reference_summary": "Thị trường lao động Việt Nam trong thời gian qua đang phải đối phó với nhiều sóng gió.",
+            "generated_summary": "Một doanh nghiệp tại Hà Nội đã có nếu có thêm cách công và sự gần đây.",
+            "rouge_scores": {
+                "rouge1": 0.32,
+                "rouge2": 0.0,
+                "rougeL": 0.2,
+                "rougeLsum": 0.2
+            }
+        },
+        {
+            "id": "vietnam-47341668",
+            "url": "https://www.bbc.com/vietnamese/vietnam-47341668",
+            "text": "Số phận của những quan chức Bắc Hàn đào tẩu Ba dân biểu Mỹ đề nghị Trump nêu nhân quyền với VN Mike Pompeo hy vọng có tiến bộ thực sự ở Hà Nội Sự xuất hiện chớp nhoáng trước cửa Nhà hát Lớn của hai công dân , Úc và Canada , có ngoại hình , kiểu tóc và trang phục dễ nhận dạng của họ đã lọt vào ống kính của một số nhà báo trong và ngoài nước . Truyền thông đưa tin hai người đóng giả này còn đưa ra các thông điệp như hai \" chính khách xịn \" và \" có cả cận vệ \" nhưng tin cho hay họ đã được mời về làm việc với chính quyền và chắc sẽ không có \" show diễn \" nào nữa . Thế nhưng không ai có thể cấm được sự đi lại của hàng chục người có kiểu đầu ông Kim và ông Trump vì ít nhất một tiệm cắt tóc ở Hà Nội đã và đang quảng bá thương hiệu bằng dịch vụ cắt miễn phí cho khách . Ngoài vũ khí hạt nhân mà Bắc Hàn ' ' khoe ' ' họ đang có , Bình Nhưỡng cũng có các tên lửa tầm trung và xuyên lục địa , là mối răn đe không chỉ với Hoa Kỳ mà còn các nước đồng minh của Washington trong khu vực như Nam Hàn và Nhật Bản .",
+            "reference_summary": "Một trong những câu hỏi báo chí nước ngoài tốn nhiều giấy mực vài tuần qua là \"Tại sao lại chọn Hà Nội\" hay \"Tại sao chọn Việt Nam\". Nếu được hỏi thì câu trả lời ngắn của tôi là \"Tại sao không\".",
+            "generated_summary": "Thông tin nhữn người đã tuyên bố vào tháng Năm, Hà Nội.",
+            "rouge_scores": {
+                "rouge1": 0.3516,
+                "rouge2": 0.0674,
+                "rougeL": 0.2198,
+                "rougeLsum": 0.2198
+            }
+        },
+        {
+            "id": "120720_asean_scs",
+            "url": "https://www.bbc.com/vietnamese/world/2012/07/120720_asean_scs",
+            "text": "Hội nghị Asean tại Phnom Penh không đưa ra được thông cáo chung Ông ngoại trưởng vừa có cuộc họp báo chiều thứ Sáu 20 / 7 tại Phnom Penh để nói về bản nguyên tắc sáu điểm về Biển Đông mà các nước Đông Nam Á đã thống nhất với nhau sau nỗ lực ngoại giao con thoi của Ngoại trưởng Indonesia Marty Natalegawa . Ông nói : \" Thứ Sáu tuần trước , đúng một tuần trước đây , tôi thông báo là cuộc họp ngoại trưởng Asean đã không đưa ra được thông cáo chung vì không có đồng thuận giữa 10 nước thành viên Asean \" \" Thế nhưng một tuần sau , hôm nay chúng ta đã có văn bản cho thấy lập trường của Asean về vấn đề Biển Đông . \" Bản nguyên tắc sáu điểm mà từ nay trở đi chúng ta sẽ thực hiện , cũng như quan điểm của Campuchia đều không có khác gì với trước , thế cho nên vấn đề là tại sao mà Asean lại không thông qua được tuyên bố chung tại hội nghị [ tuần trước ] . \" Nguyên tắc sáu điểm ' về Biển Đông của Asean vừa thống nhất bao gồm : các Ngoại trưởng Asean “ nhắc lại và khẳng định cam kết của các nước thành viên Asean ” nhằm “ Thực hiện đầy đủ Tuyên bố của các bên về cách ứng xử ( DOC ) ở Biển Đông ( 2002 ) ; thực hiện Hướng dẫn thực hiện DOC ; Sớm kết thúc Bộ Quy tắc ứng xử ( COC ) ở Biển Đông ; Hoàn toàn tôn trọng các nguyên tắc đã được thừa nhận của Luật pháp quốc tế , trong đó có Công ước Luật biển 1982 của Liên Hiệp Quốc ( UNCLOS ) ; Tiếp tục tự kiềm chế và không sử dụng bạo lực giữa tất cả các bên ; và các biện pháp hòa bình đối với các tranh chấp , theo nguyên tắc của luật pháp quốc tế , trong đó có Công ước Luật biển 1982 của Liên Hiệp Quốc ( UNCLOS ) .",
+            "reference_summary": "Ngoại trưởng Campuchia Hor Namhong nói tuy Asean đạt nguyên tắc về Biển Đông, ông vẫn đặt câu hỏi về động cơ của 'hai nước thành viên' mà ông không nói tên nhưng ai cũng hiểu là Việt Nam và Philippines.",
+            "generated_summary": "Một cuộc họp ngoại trưởng Asean tại Phnom Penh vừa được thông báo.",
+            "rouge_scores": {
+                "rouge1": 0.3855,
+                "rouge2": 0.1235,
+                "rougeL": 0.2892,
+                "rougeLsum": 0.2892
+            }
+        },
+        {
+            "id": "world-39562543",
+            "url": "https://www.bbc.com/vietnamese/world-39562543",
+            "text": "Nhiều người dùng mạng xã hội nói vụ kéo hành khách khỏi máy bay thật ' man rợ ' Giám đốc điều hành United Airlines nói nhân viên của mình đã \" tuân theo các thủ tục đã được thiết lập \" trong vụ việc , và thấy \" giận dữ khi xem và nghe về những gì đã xảy ra \" . Ban đầu , danh tính của hành khách trên chưa được xác định , tuy nhiên một người ngồi cạnh ông nói với chương trình 5Live của BBC rằng \" ông ta gốc từ Việt Nam , sống ở Louisville được 20 năm , cả ông và vợ cùng là bác sỹ \" . Tiếp theo đó , một tờ báo tại Anh và một số báo Mỹ nói đây là ông David Đào , \" bác sỹ 69 tuổi , người từ Việt Nam \" và đi cùng vợ là Teresa . Theo các nhân chứng , người đàn ông khước từ việc ra khỏi máy bay cho biết ông là một bác sĩ và ông có hẹn khám bệnh ngày hôm sau , dù điều này chưa được xác nhận .",
+            "reference_summary": "Mạng xã hội phẫn nộ trước đoạn băng cho thấy một người đàn ông bị lôi ra khỏi ghế và và kéo lê trên lối đi trong chuyến bay từ Chicago đến Louisville của hãng hàng không United Airlines đêm 9/4 do thiếu ghế.",
+            "generated_summary": "Thủ tướng của ông David Đào trong vụ việc ra khỏi máy bay.",
+            "rouge_scores": {
+                "rouge1": 0.3855,
+                "rouge2": 0.0988,
+                "rougeL": 0.2169,
+                "rougeLsum": 0.2169
+            }
+        },
+        {
+            "id": "vietnam-46176031",
+            "url": "https://www.bbc.com/vietnamese/vietnam-46176031",
+            "text": "Luật sư Huyền Trang bào chữa cho ông Vĩnh phát biểu tại tòa rằng trước đây ông là trung tướng công an , nhưng khi vi phạm pháp luật ông là một cá nhân không đại diện diện cho cơ quan nào , do đó đề nghị tòa \" yêu cầu cơ quan báo chí không đưa những phát ngôn tiêu cực \" , theo tường thuật của Tuổi Trẻ . Theo luật sư Hải , cơ quan điều tra bỏ sót một số tội danh đối với ông Vĩnh và ông Hóa , như : tội lạm quyền trong thi hành công vụ , tội tổ chức đánh bạc , tội không truy cứu trách hiệm hình sự . \" Khi bị bắt , ông Hóa bị khởi tố bị can về tội tổ chức đánh bạc ( đồng phạm với Phan Sào Nam và Nguyễn Văn Dương trong đường dây đánh bạc qua Internet ) . 10 / 10 / 2011 , ông Nguyễn Văn Dương và ông Nguyễn Thanh Hóa ký bản ghi nhớ về hợp tác kinh doanh giữa CNC và C50 của Bộ Công an .",
+            "reference_summary": "Sáng 12/11, Tòa án Nhân dân tỉnh Phú Thọ xét xử 92 bị cáo liên quan đến đường dây đánh bạc nghìn tỷ.",
+            "generated_summary": "Hợp số tổ chức đánh bạc của Bộ Công an, ông Nguyễn Viện Văn Dương và một nơi đã xác án về công viện rứng gọ́i cơ quan báo chí Việt Nam.",
+            "rouge_scores": {
+                "rouge1": 0.5238,
+                "rouge2": 0.0976,
+                "rougeL": 0.3333,
+                "rougeLsum": 0.3333
+            }
+        },
+        {
+            "id": "120916_china_aids_vietnam_flood",
+            "url": "https://www.bbc.com/vietnamese/vietnam/2012/09/120916_china_aids_vietnam_flood",
+            "text": "Ba tỉnh Bắc Trung bộ Việt Nam đã bị lũ lụt tàn phá Số tiền này đã được đích thân ông Đại sứ Trung Quốc Khổng Huyễn Hựu trao cho Hội Chữ thập đỏ trung ương của Việt Nam tại một buổi lễ tiếp nhận tại trụ sở của hội này vào chiều ngày thứ Sáu ngày 14 / 9 . Trước khi ông Khổng Huyễn Hựu trao tiền cứu trợ thì bộ trưởng Ngoại giao nước này Dương Khiết Trì đã gửi điện thăm hỏi đến người tương nhiệm Việt Nam là Phạm Bình Minh về những tổn thất của Việt Nam do lũ lụt gây ra . Mưa lũ tại các tỉnh bắc miền Trung Việt Nam như Thanh Hóa , Nghệ An và Hà Tĩnh vào cuối tháng Tám đầu tháng Chín đã làm hơn 50 người chết và bị thương , hàng ngàn căn nhà bị ngập và sập và nhấn chìm hàng chục ngàn hectare ruộng vườn . Hồi xảy ra trận động đất kinh hoàng tại tỉnh Tứ Xuyên của Trung Quốc bốn năm trước đây làm hơn 87.000 người thiệt mạng , chính phủ Việt Nam khi đó đã viện trợ khẩn cấp cho phía Trung Quốc 200.000 Mỹ kim còn Hội chữ thập đỏ Việt Nam cũng trao cho Trung Quốc 20.000 Mỹ kim ủng hộ các nạn nhân động đất .",
+            "reference_summary": "Đại sứ quán Trung Quốc tại Hà Nội đã trao cho phía Việt Nam số tiền 10.000 Mỹ kim để cứu trợ các nạn nhân lũ lụt vừa qua tại các tỉnh miền Trung Việt Nam.",
+            "generated_summary": "Khi ông Khủ Hựu đã trao tại Trung Quốc và Việt Nam để gửi điện của Hội Chữ thập đỏ trung ương.",
+            "rouge_scores": {
+                "rouge1": 0.4337,
+                "rouge2": 0.0988,
+                "rougeL": 0.2892,
+                "rougeLsum": 0.2892
+            }
+        },
+        {
+            "id": "121225_xmas_masses_2012",
+            "url": "https://www.bbc.com/vietnamese/world/2012/12/121225_xmas_masses_2012",
+            "text": "Giáo hoàng Benedict 16 chủ trì tháng lễ tại Nhà thờ thánh Peter Cao trào của các hoạt động ăn mừng là thánh lễ nửa đêm tại nhà Nhà thờ Giáng sinh 1.700 năm tuổi được dựng lên tại chính nơi được cho là Chúa Giêsu đã chào đời . Từ nơi thiêng liêng này , tôi kêu gọi các chính trị gia và những ai có thiện chí hãy hành động quyết tâm vì hòa bình và hòa giải cho Palestine và Israel giữa tất cả những khổ đau ở Trung Đông . \"  Từ nơi thiêng liêng này , tôi kêu gọi các chính trị gia và những ai có thiện chí hãy hành động quyết tâm vì hòa bình và hòa giải cho Palestine và Israel giữa tất cả những khổ đau ở Trung Đông ,  ông nói . Nhắc đến cuộc xung đột hồi tháng trước giữa Israel và các tay súng ở Dải Gaza , Giáo trưởng Twal nói ông cũng cầu nguyện cho tất cả ‘ các gia đình Ả Rập và Do Thái là nạn nhân của cuộc xung đột ’ .",
+            "reference_summary": "Hàng ngàn tín đồ Thiên chúa giáo từ khắp nơi trên thế giới đã chào đón ngày giáng sinh của Chúa Giêsu tại Bethlehem.",
+            "generated_summary": "Chính trị Benedict 16 của các chính phủ tướng Trung Động sẽ kêu gọi về nơi thiêng liêng giữa Israel và Ấn Đông.",
+            "rouge_scores": {
+                "rouge1": 0.32,
+                "rouge2": 0.0274,
+                "rougeL": 0.2133,
+                "rougeLsum": 0.2133
+            }
+        },
+        {
+            "id": "070319_russian_mineexplosion",
+            "url": "https://www.bbc.com/vietnamese/worldnews/story/2007/03/070319_russian_mineexplosion",
+            "text": "Họ nói 88 thợ mỏ , trong đó có một số bị thương , đã được cứu sống sau vụ nổ tại mỏ Ulyanovskaya ở khu vực Kemerovo . Một vụ nổ khí methane tại một mỏ than ở Kemerovo vào năm 2005 đã giết chết 21 thợ mỏ . “ Thông tin mới nhất mà chúng tôi có được là có 168 công nhân đang ở dưới mỏ khi vụ nổ xảy ra ” . Các mỏ than tại Nga nhìn chung ít thu được lợi nhuận và rất nhiều mỏ không đầu tư các thiết bị an toàn mới kể từ sau khi Liên bang Soviet sụp đổ vào năm 1991 .",
+            "reference_summary": "Các quan chức Nga cho biết một vụ nổ khí methane tại một mỏ than ở Siberia đã giết chết ít nhất 61 người.",
+            "generated_summary": "̉ một thợ mỏ sẽ được vào năm tới trong cuộc vụ nổ xảy ra.",
+            "rouge_scores": {
+                "rouge1": 0.2963,
+                "rouge2": 0.1154,
+                "rougeL": 0.2222,
+                "rougeLsum": 0.2222
+            }
+        },
+        {
+            "id": "151118_history_combine_proposal",
+            "url": "https://www.bbc.com/vietnamese/vietnam/2015/11/151118_history_combine_proposal",
+            "text": "Bộ Giáo dục và Đào tạo dự kiến tích hợp môn lịch sử vào các môn khác Trả lời phỏng vấn của BBC hôm 18 / 11 , Giáo sư sử học Vũ Dương Ninh , Đại học Quốc gia Hà Nội , nói : “ Tôi cho rằng đề án tích hợp môn lịch sử trong trường phổ thông là phản khoa học , phản dân tộc . Ông cho biết ông và các nhà sử học khác đang kiên quyết phản đối đề án tích hợp môn lịch sử và bảo lưu quan điểm “ lịch sử phải là môn khoa học độc lập như vốn có và phải được đối xử bình đẳng như các môn khác trong trường học “ . ' Làm mờ có chủ ý ' Hôm 17 / 11 , báo trong nước tường thuật Bộ trưởng Giáo dục và Đào tạo Phạm Vũ Luận cho rằng môn lịch sử không bị coi nhẹ khi trả lời chất vấn của đại biểu Quốc hội . Vấn đề là dạy gì và nhìn sử bằng nhãn quan niên đại và sự kiện sử hay nhìn nó bằng định hướng tuyên truyền khu gọn ' sử ' trong cái khung ' lịch sử cách mạng ' vốn chỉ chiếm một phần rất nhỏ trong chiều dài lịch sử dân tộc hàng ngàn năm ” .",
+            "reference_summary": "Đang có tranh cãi gay gắt xoay quanh đề xuất của Bộ Giáo dục tích hợp lịch sử vào các môn khác trong chương trình phổ thông.",
+            "generated_summary": "Truyền thông Hà Nội đã có ý án lịch sử của giáo dục vào đại biểu Quốc gia.",
+            "rouge_scores": {
+                "rouge1": 0.5294,
+                "rouge2": 0.2424,
+                "rougeL": 0.2941,
+                "rougeLsum": 0.2941
+            }
+        },
+        {
+            "id": "world-40731135",
+            "url": "https://www.bbc.com/vietnamese/world-40731135",
+            "text": "Bắt tay Ngoại trưởng Philiipines Alan Peter Cayetano , Bộ trưởng Vương Nghị ( trái ) hôm 25 / 7 khi tới thăm Manila đã thúc giục các nước ASEAN đoàn kết và ' nói không ' với các thế lực bên ngoài muốn can thiệp vào cuộc tranh chấp Biển Đông Manila hứa sẽ tham vấn với các nước liên quan về các kế hoạch đó . Sẽ không phải là hành động đơn phương của Philippines , bởi ngài tổng thống đã hứa là sẽ vì hòa bình và ổn định , mà hành động đơn phương của bất kỳ bên nào cũng đều sẽ dẫn tới sự mất ổn định , \" ông nói với các phóng viên . \" Thủ tướng Úc : ‘ Cá lớn đừng nuốt cá bé ’ Việt Nam khoan tìm dầu ở Biển Đông Tướng Phạm Trường Long : ' Đảo ở Nam Hải là của TQ ' Bill Hayton : ' Cá Voi Xanh chặn Đường Lưỡi Bò ' Dàn khoan Lam Kình 1 của TQ đã có mặt ở Biển Đông từ tháng 5 / 2017 Tuần tới , ông Cayetano sẽ gặp các ngoại trưởng khối ASEAN tại Manila , và dự kiến chủ đề Biển Đông sẽ nằm trong nghị trình bàn thảo , AFP nói . Ở các vùng nước có sự chồng lấn về quyền và lợi ích , nếu một bên đơn phương phát triển , rồi một bên khác có hành động tương tự , thì điều đó sẽ làm phức tạp hóa tình hình trên biển , có thể dẫn đến căng thẳng và cuối cùng thì không ai có thể khai thác được các nguồn tài nguyên , \" ông Vương nói .",
+            "reference_summary": "Philippines hôm thứ Tư trấn an các quốc gia láng giềng ở Đông Nam Á liên quan tới đề xuất của nước này trong việc hợp tác khai thác dầu khí cùng Bắc Kinh tại vùng biển có tranh chấp, hãng tin AFP nói.",
+            "generated_summary": "Mộc tranh chấn ở Việt Nam đã từng sẽ bắt mạng về lợi ích của Việt Nam.",
+            "rouge_scores": {
+                "rouge1": 0.4222,
+                "rouge2": 0.0682,
+                "rougeL": 0.2222,
+                "rougeLsum": 0.2222
+            }
+        },
+        {
+            "id": "080408_petraeus_usiraq",
+            "url": "https://www.bbc.com/vietnamese/worldnews/story/2008/04/080408_petraeus_usiraq",
+            "text": "Nhận xét này của ông được đưa ra trong báo cáo về tiến bộ tại Iraq , là báo cáo mà ông và đại sứ Mỹ tại Iraq , Ryan Crocker , đưa ra trước Quốc hội . Tướng Petraeus nói an ninh tại Iraq hiện nay tốt hơn vào thời gian mà ông đưa ra bản báo cáo lần trước tại Quốc hội , vào tháng Chín năm ngoái , và tốt hơn nhiều so với thời gian trước khi Mỹ gửi thêm quân sang vào đầu năm ngoái . Ông nói có thể sẽ có “ sự trỗi dậy của al - Qaeda tại Iraq ” , hoặc các nhóm Hồi giáo dòng Shia có thể vi phạm lệnh ngừng bắn của giáo sĩ có nhiều ảnh hưởng là Moqtada al - Sadr . Ông nói ông không thể cho biết sẽ có bao nhiêu lính Mỹ còn lại tại Iraq vào cuối năm nay .",
+            "reference_summary": "Lãnh đạo quân sự Hoa Kỳ tại Iraq, tướng David Petraeus, đã khuyến nghị ngừng việc rút lính Mỹ sau tháng Bảy nhằm bảo vệ những thành quả đạt được tại Iraq.",
+            "generated_summary": "Thủ sướng Iraq nói ông tốt hơn.",
+            "rouge_scores": {
+                "rouge1": 0.2951,
+                "rouge2": 0.0,
+                "rougeL": 0.1967,
+                "rougeLsum": 0.1967
+            }
+        },
+        {
+            "id": "160229_migrants_flooded_through_macedonia",
+            "url": "https://www.bbc.com/vietnamese/world/2016/02/160229_migrants_flooded_through_macedonia",
+            "text": "Khoảng 6.500 người vẫn bị kẹt lại ở phía biên giới Hy Lạp khi Macedonia chỉ cho một số ít người qua . Cảnh sát dùng lựu đạn cay nhằm chặn người di cư khỏi tràn qua biên giới Vụ lộn xộn hôm thứ Hai nổ ra ở khu vực cổng đã được gắn thêm dây thép gai nhằm giữ người di cư không vào được nơi có đường tàu . Rất nhiều người tỵ nạn chạy trốn khỏi cuộc chiến ở Trung Đông , trong lúc những người khác tránh tình trạng bị lạm dụng nhân quyền ở Afghanistan , Eritrea và các vùng chiến sự khác . Trong một phỏng vấn truyền hình bà nói : \" Liệu anh có thực sự tin rằng tất cả các quốc gia châu Âu năm ngoái đã đấu tranh hết sức để giữ Hy Lạp ở lại khối châu Âu , và chúng ta là những người thực hiện điều đó nghiêm ngặt nhất , sau đó một năm lại để Hy Lạp , theo một cách nào đó , lao vào vòng lộn xộn ? \"",
+            "reference_summary": "Đám đông người di cư đã dùng cột thép thúc qua hàng rào dây thép gai ở biên giới giữa Macedonia và Hy Lạp.",
+            "generated_summary": "Thủ tướng Trung Đông nói rằng có những người đã vào một lãnh đạo.",
+            "rouge_scores": {
+                "rouge1": 0.5357,
+                "rouge2": 0.1111,
+                "rougeL": 0.3214,
+                "rougeLsum": 0.3214
+            }
+        },
+        {
+            "id": "120919_bo_xilai_crime_implicated",
+            "url": "https://www.bbc.com/vietnamese/world/2012/09/120919_bo_xilai_crime_implicated",
+            "text": "Ông Neil Heywood và bà Cốc Khai Lai từng có quan hệ làm ăn thân thiết Tân Hoa Xã trích dẫn các nhân chứng tại phiên tòa xử người từng là cánh tay phải của ông Bạc Hy Lai , ông Vương Lập Quân , và gợi ý rằng ông Vương đã tìm cách nói với ông Bạc về nghi ngờ của mình . Ông đã cố tìm cách nói với \" người chịu trách nhiệm chính tại Ban chấp hành đảng ủy Trung Khánh vào thời điểm đó \" về nghi vấn của ông về bà Cốc , Tân Hoa Xã đưa tin trong bài báo chính thức viết về phiên xử này mà không nêu đích danh ông Bạc . Gia đình ông Bạc Hy Lai thời còn vinh quang Trên cương vị Bí thư đảng ủy , người ta cho rằng ông Bạc sẽ được thăng tiến vào các chức vụ lãnh đạo hàng đầu trong kỳ Đại hội Đảng sắp tới tại Trung Quốc trước khi ông bị truất quyền . Việc ông Vương Lập Quân chạy vào lãnh sự quán Mỹ tại Thành Đô hồi tháng Hai đã kéo theo một loạt các sự kiện dẫn tới sự sụp đổ của ông Bạc .",
+            "reference_summary": "Hãng thông tấn nhà nước Trung Quốc vừa lần đầu tiên gắn chính trị gia Trung Quốc đã bị truất quyền, ông Bạc Hy Lai, với một hành động có tội khi cáo giác ông biết vợ bị tình nghi đã giết một doanh nhân người Anh.",
+            "generated_summary": "Một sức của đảng Trung Quốc tại Đại hội Đảng Hoa Xã đã gọi ông Bạc Hy Lai.",
+            "rouge_scores": {
+                "rouge1": 0.4375,
+                "rouge2": 0.1915,
+                "rougeL": 0.2917,
+                "rougeLsum": 0.2917
+            }
+        },
+        {
+            "id": "160615_vietnam_su_30_fighter_update",
+            "url": "https://www.bbc.com/vietnamese/vietnam/2016/06/160615_vietnam_su_30_fighter_update",
+            "text": "Máy bay Su30 do Nga sản xuất ( hình minh họa ) Báo Nghệ An nói một chiếc tàu cá đã cứu được thiếu tá Nguyễn Hữu Cường vào sáng sớm ngày thứ Tư 15 / 6 , một ngày sau khi chiếc Su - 30 MK2 rơi ngoài biển Nghệ An . Ông Nguyễn Công Lực , Phó chỉ huy Bộ đội Biên phòng Nghệ An , xác nhận thông tin cứu được phi công với hãng AP qua điện thoại , và nói một tàu tuần tra bờ biển đã được điều tới tàu cá để đưa phi công được cứu vào bờ . Khu vực biển Nghệ An mà chiếc máy bay Su - 30 MK2 được cho là đã mất tích Chiến đấu cơ hiện đại Bộ chỉ huy Quân sự tỉnh Nghệ An đã thành lập Sở chỉ huy nhẹ trên Đảo Mắt để tìm kiếm máy bay Su - 30MK2 mất tích , trang Dân Việt cập nhật . Su - 30MK2 được cho là đã hiện đại hơn rất nhiều so với các loại chiến đấu cơ cũng của Nga sản xuất mà không quân Việt Nam còn sử dụng như Su - 22 hay Mig - 21 .",
+            "reference_summary": "Việt Nam đã cứu được một trong hai phi công mất tích trong chuyến bay huấn luyện sử dụng máy bay Su-30 MK2, hãng tin AP tường thuật.",
+            "generated_summary": "Một chiếc máy bay Su - 30MK2 được sử dụng vì tàu cá để xảy tới một vũng của Đảo Mắt.",
+            "rouge_scores": {
+                "rouge1": 0.5278,
+                "rouge2": 0.2571,
+                "rougeL": 0.3333,
+                "rougeLsum": 0.3333
+            }
+        },
+        {
+            "id": "080122_thompson_quit_whrace",
+            "url": "https://www.bbc.com/vietnamese/worldnews/story/2008/01/080122_thompson_quit_whrace",
+            "text": "Trong một tuyên bố ngắn , ông Thompson nói : “ Tôi rút chức ứng viên của mình … Tôi hi vọng đất nước và đảng sẽ được lợi từ nỗ lực này của chúng tôi ” . Quyết định này được đưa ra sau khi ông Thompson về thứ ba trong cuộc bầu chọn tại tiểu bang South Carolina hôm thứ Bảy - là tiểu bang mà ông nói ông cần phải chiến thắng . Ông kết thúc tuyên bố của mình nói rằng ông và vợ , là bà Jeri , “ luôn biết ơn sự khích lệ và tình bạn của rất nhiều người tuyệt vời ” . Phóng viên BBC , Vincent Dowd , nói cựu ngôi sao của chương trình truyền hình ‘ Luật pháp và Trật tự ’ chắc đã nghĩ kỹ về chuyện liệu cuộc bầu chọn của đảng Cộng hòa tại tiểu bang Florida cuối tháng này có mang lại hi vọng vực dậy cho mình hay không - và rõ ràng ông cho rằng khả năng này không xảy ra .",
+            "reference_summary": "Cựu Thượng Nghị sĩ Hoa Kỳ, Fred Thompson, đã rút khỏi cuộc đua tranh chức ứng viên Tổng thống của đảng Cộng hòa, sau khi thu về kết quả kém trong mấy vòng bầu chọn đầu tiên.",
+            "generated_summary": "Mộc ứng viên của đảng Cộng hòa ở tiểu bang Florida nói rằng một số những lượng lãnh đạo truyền hình về cuộc bầu chọn và chiếc đầu thứ Bảy.",
+            "rouge_scores": {
+                "rouge1": 0.5714,
+                "rouge2": 0.1942,
+                "rougeL": 0.2857,
+                "rougeLsum": 0.2857
+            }
+        },
+        {
+            "id": "140821_deng_xi_comparison",
+            "url": "https://www.bbc.com/vietnamese/world/2014/08/140821_deng_xi_comparison",
+            "text": "Quyền lực Cựu tổng biên tập của tạp chí Trường Đảng Trung Ương , Đặng Duật Văn , nói với BBC tiếng Hoa : “ Rõ ràng ông Tập là lãnh đạo quyền lực nhất từ thời Đặng Tiểu Bình . ” Ông Đặng nói quyền lực của ông Tập thể hiện qua hai yếu tố : trước hết , ông Tập kiểm soát cả đảng , quân đội và kinh tế . Người ta bảo hơn 10 triệu bản in các phát biểu của ông Tập đã được bán trong hai tháng qua , \" ông Deng nói . “ Thách thức thực sự là về chính trị và xã hội , như xây dựng xã hội cân bằng hơn , cho người dân tham gia nhiều hơn … ” “ Nếu ông thành công , Tập Cận Bình có thể được xem là lãnh tụ vĩ đại và quan trọng .",
+            "reference_summary": "Trung Quốc đang ở trong \"thời kì Đặng Tiểu Bình\" nếu xét về số lượng sách vở, bài báo, triển lãm, một sêri phim truyền hình, và lễ kỷ niệm 110 năm ngày sinh cố lãnh tụ.",
+            "generated_summary": "Cựu tổng thống Tập Cận Bình của ông Đặng Tập nói vào BBC tiếng Hoa đã đối với lãnh đạo quyền lực quân đội xã hội chính trị.",
+            "rouge_scores": {
+                "rouge1": 0.5941,
+                "rouge2": 0.0606,
+                "rougeL": 0.3168,
+                "rougeLsum": 0.3168
+            }
+        },
+        {
+            "id": "150609_assk_china_visit",
+            "url": "https://www.bbc.com/vietnamese/world/2015/06/150609_assk_china_visit",
+            "text": "Biên tập viên BBC tiếng Trung nhận định chuyến thăm này của bà Suu Kyi là ngoài sức tưởng tượng cách đây 5 năm xét về thực tế bà được xem là người tranh đấu cho dân chủ và nhân quyền cũng như là người được trao giải Nobel Hòa bình . “ Một số báo chí bằng tiếng Trung tại hải ngoại đưa tin có sự chia rẽ trong giới lãnh đạo Trung Quốc về việc liệu có nên để chuyến thăm này diễn ra hay không và ai là người nên mời bà Suu Kyi thăm Bắc Kinh . Là lãnh đạo NLD , bà Suu Kyi được trông đợi đóng môt vai trò chủ đạo trong kỳ bầu cử tổng thống tại Myanmar vào tháng 11 năm nay , mặc dù nhiều khả năng bà sẽ không thể ra tranh cử ghế tổng thống . Mời bà Suu Kyi tới Bắc Kinh là việc Trung Quốc công nhận rằng sau kỳ tổng tuyển cử tại Miến Điện , bà sẽ là một nhân vật chính trị mà Trung Quốc không thể không để tâm tới , phóng viên BBC Jonah Fisher tại Yangon nhận xét .",
+            "reference_summary": "Lần đầu tiên lãnh đạo đối lập Myanmar Aung San Suu Kyi tới thăm Trung Quốc vào thời điểm hai nước có căng thẳng.",
+            "generated_summary": "Trung Quốc nói bà Suu Kyi tới Bắc Kinh.",
+            "rouge_scores": {
+                "rouge1": 0.4,
+                "rouge2": 0.2083,
+                "rougeL": 0.28,
+                "rougeLsum": 0.28
+            }
+        },
+        {
+            "id": "vietnam-40991186",
+            "url": "https://www.bbc.com/vietnamese/vietnam-40991186",
+            "text": "Bà Vũ Minh Khánh , vợ luật sư Nguyễn Văn Đài cùng những người bạn đi thăm ông tại Trại tạm giam B14 , Bộ Công an hôm 1 / 4 / 2017 Tháng 12 / 2015 , Luật sư Nguyễn Văn Đài bị bắt và bị khởi tố theo Điều 88 Bộ luật Hình sự sau khi ông nói chuyện về Hiến pháp và các quyền con người cơ bản trước một cử tọa chừng 70 người tại nhà của một cựu tù nhân chính trị ở xã Nam Lộc , huyện Nam Đàn , tỉnh Nghệ An . Vụ án Nguyễn Văn Đài : bắt thêm 4 người Vợ luật sư Đài ' không được xuất cảnh ' Thông báo của Viện Kiểm sát Nhân dân Tối cao gửi Luật sư Hà Huy Sơn , người bào chữa cho ông Đài đề hôm 23 / 8 được luật sư này chia sẻ trên Facebook của ông ghi : \" Ông Nguyễn Văn Đài bị khởi tố về các tội \" Tuyên truyền chống Nhà nước \" , \" Hoạt động nhằm lật đổ chính quyền nhân dân \" theo Điều 88 và 79 Bộ luật Hình sự , thuộc Chương các tội xâm phạm an ninh quốc gia . \" Luật sư Nguyễn Văn Đài , người đang bị Việt Nam khởi tố và tạm giam , được Liên đoàn Thẩm phán Đức trao giải Nhân quyền 2017 hồi tháng Tư \" Còn về bản án cho ông ấy sẽ thế nào thì tôi không dám dự báo , nhưng mong chờ có sự thay đổi hoặc nhìn nhận đúng đắn là ông ấy không phạm tội . \" Luật sư Quân nói thêm : \" Chính quyền xem vụ án Nguyễn Văn Đài là đầu vụ , xem ông là con cá lớn , là món đổi chác cho những vấn đề lớn với quốc tế \" . \"",
+            "reference_summary": "Một luật sư ở Hà Nội nói với BBC rằng việc khởi tố ông Nguyễn Văn Đài theo cả hai Điều 88 và 79 \"là chưa có tiền lệ\" và \"là chỉ dấu chính quyền xem ông là con cá lớn để đổi chác với quốc tế\".",
+            "generated_summary": "Bộ luật sư Nguyễn Văn Đài bị bắt một người tại xã Nam Đàn.",
+            "rouge_scores": {
+                "rouge1": 0.3721,
+                "rouge2": 0.2143,
+                "rougeL": 0.2558,
+                "rougeLsum": 0.2558
+            }
+        },
+        {
+            "id": "121121_me_phuong_uyen_intv",
+            "url": "https://www.bbc.com/vietnamese/multimedia/2012/11/121121_me_phuong_uyen_intv",
+            "text": "Dòng chữ phần ký tên ' Người nhận ' viết : ' Mẹ ơi , con nhận được . Bà Nhung nói với BBC Việt Ngữ không tin con mình lại viết \" đừng thăm con nữa \" . Mẹ của Phương Uyên cũng tường thuật lại cuộc trò chuyện với cán bộ an ninh về câu trả lời của Viện Kiểm sát về những khiếu nại của bà , nhưng cán bộ an ninh không cho bà ghi chép lại vì ngại bà \" tung lên đài báo \" . Khi được hỏi có biết về diễn tiến sắp tới ra sao , bà Nguyễn Thị Nhung nói không biết , \" chỉ biết hôm trước có xem trên truyền hình người ta đưa ra bằng chứng Phương Uyên nhận tội và xin khoan hồng . \"",
+            "reference_summary": "Bà Nguyễn Thị Nhung lần thứ ba đi thăm con gái Phương Uyên ở trại giam nhưng không được gặp mà chỉ nhận được vài chữ viết trên tờ phiếu gửi quà.",
+            "generated_summary": "Bà Nguyễn Thị Nhung nói với BBC Việt Ngữ tại Hà Nội hiện về các cán bộ an ninh bằng chứng của Phương Uyến vào những sự trò cấu trên truyền hình.",
+            "rouge_scores": {
+                "rouge1": 0.6061,
+                "rouge2": 0.2474,
+                "rougeL": 0.3636,
+                "rougeLsum": 0.3636
+            }
+        },
+        {
+            "id": "world-56990463",
+            "url": "https://www.bbc.com/vietnamese/world-56990463",
+            "text": "Bill và Melinda Gates ly hôn sau 27 năm ' luôn bên nhau ' Doanh nhân nữ ' cần được thấu hiểu ' để thành công Hai vợ chồng nói họ được truyền cảm hứng làm nhiều việc thiện hơn , vì một bài báo viết về việc hàng triệu trẻ em ở các nước nghèo tử vong hàng năm do những căn bệnh có thể phòng ngừa được . Buffett ( phải ) và hai vợ chồng nhà Gates vẫn là những ủy viên quản trị của quỹ Mọi người có ủng hộ việc làm của Quỹ không ? Một phát ngôn viên của quỹ nói họ sẽ vẫn là đồng chủ tịch và ủy viên quản trị của quỹ . Họ đã xây dựng công trình này ngay từ những ngày đầu tiên , trong hơn 20 năm qua , họ cùng chia sẻ một cam kết sâu sắc với tổ chức , chắc không ai trong hai người sẽ vui khi thấy Quỹ Gates không tiếp tục làm công việc mà quỹ đã làm . \"",
+            "reference_summary": "Tin tỷ phú Bill và Melinda Gates chia tay sau 27 năm chung sống làm dấy lên nhiều đồn đoán về điều gì sẽ xảy ra với quỹ từ thiện của họ.",
+            "generated_summary": "Thủ tượng Quỹ Gates của quỹ sẽ có công viên quản trị Quốc Donald Trump đã bắt đầu trong những ngày lịch vào xây dựng.",
+            "rouge_scores": {
+                "rouge1": 0.4444,
+                "rouge2": 0.0759,
+                "rougeL": 0.2222,
+                "rougeLsum": 0.2222
+            }
+        },
+        {
+            "id": "080617_korea_us_beef",
+            "url": "https://www.bbc.com/vietnamese/regionalnews/story/2008/06/080617_korea_us_beef",
+            "text": "Quyết định của chính phủ Hàn Quốc mở lại cửa cho thịt bò của Hoa Kỳ đã khiến nảy sinh nhiều cuộc biểu tình vì quan ngại về tính an toàn của thịt bò nhập khẩu . Như vậy tổng thống Lee Myung - bak đang đối diện với ngày càng nhiều áp lực và uy tín của ông đã giảm sút đáng kể chỉ mới bốn tháng sau khi nhậm chức . Chưa đạt thỏa thuận Bộ trưởng Kim Jong - hoon đáng ra đã lên đường về Hàn Quốc vào tối Chủ nhật sau khi cuộc hội đàm nhằm mục đích nêu quan ngại về thịt bò Mỹ đã không đạt được thỏa thuận nào . Hồi tháng Tư , Seoul chấp thuận nối lại nhập khẩu thịt bò từ Mỹ sau gần 5 năm ngừng trệ vì các ca bệnh bò điên BSE tại Hoa Kỳ .",
+            "reference_summary": "Bộ trưởng thương mại Hàn Quốc chuẩn bị nối lại đàm phán với đối tác Hoa Kỳ trong nỗ lực cuối cùng nhằm thay đổi một số điều khoản trong thỏa thuận nhập khẩu thịt bò gây tranh cãi.",
+            "generated_summary": "Tổng thống Hàn Quốc đã đạt thỏa thuận về thịt bò của Hoa Kỳ.",
+            "rouge_scores": {
+                "rouge1": 0.3721,
+                "rouge2": 0.1667,
+                "rougeL": 0.2558,
+                "rougeLsum": 0.2558
+            }
+        },
+        {
+            "id": "vietnam-40030397",
+            "url": "https://www.bbc.com/vietnamese/vietnam-40030397",
+            "text": "Ông Trần Huỳnh Duy Thức ( trái ) hiện đang thi hành bản án tù 16 năm và đã trải qua tám năm ở trong tù Cha của ông Thức là ông Trần Văn Huỳnh nói với BBC trong tám năm qua , gia đình ông đã nhiều lần nộp đơn xin xét lại bản án \" oan sai \" này , nhưng đều bị giới chức khước từ . Ông Thức là tù nhân duy nhất trong vụ án ' Lê Công Định và những người khác ' vẫn còn ở lại trong tù , các thành viên khác là các ông Lê Công Định , Lê Thăng Long và Nguyễn Tiến Trung đã được trả tự do trong những khoảng thời gian khác nhau . Tổ chức Ân xá Quốc tế trong những năm qua đã nhiều lần gửi thư cho chính phủ Việt Nam về trường hợp của ông Thức nhưng \" chưa nhận được bất cứ phản hồi nào \" , đại diện của Amnesty , bà Janice Beanland nói với BBC. Tổ chức Ân xá Quốc tế cũng bày tỏ lo ngại về tình trạng mà ông Thức đang bị giam giữ và về việc ông bị chuyển trại nhiều lần mà gia đình không được thông báo trước . '",
+            "reference_summary": "Tổ chức nhân quyền Ân xá Quốc tế (Amnesty International) gửi thư ngỏ ngày 23/5/2017 kêu gọi Việt Nam thả tự do \"ngay lập tức và vô điều kiện\" cho ông Trần Huỳnh Duy Thức, người bị tù cách đây tròn 8 năm với tội danh âm mưu lật đổ chính quyền.",
+            "generated_summary": "Chính phủ Quốc tế Ân xá Quốc đã bị chuyển trại ở Hà Nội.",
+            "rouge_scores": {
+                "rouge1": 0.2887,
+                "rouge2": 0.1053,
+                "rougeL": 0.2268,
+                "rougeLsum": 0.2268
+            }
+        },
+        {
+            "id": "100205_osinbloghacked",
+            "url": "https://www.bbc.com/vietnamese/vietnam/2010/02/100205_osinbloghacked",
+            "text": "Thông báo trên mạng về Blog Osin ' ' Từ lúc 1700 ( 5 / 2 ) blog của tôi bị hack , kể cả email huyducnews@yahoo.com của tôi không còn vào được nữa vì password đã bị đánh cắp , ' ' ông nói . Bản thân tôi cũng không vào được blog của tôi và cũng không làm sao vào được email của tôi nên không biết điều gì đã xảy ra ' ' . ' ' Blog của tôi là một blog cá nhân , nó không có một sứ mệnh nào ngoài chuyện là nơi để tôi ghi chép và chuyển tải một vài suy nghĩ của tôi , cho nên tôi không có ý định đóng nó . ' Ông Huy Đức cũng đã thông báo trên mạng xã hội Facebook rằng ' ' địa chỉ email của tôi đã bị lấy mất password , nếu ai nhận được email từ huyducnews@yahoo.com thì đấy không phải là thư của tôi ' ' .",
+            "reference_summary": "Nhà báo Huy Đức, được nhiều người biết đến qua blogosin.org xác nhận với BBC blog và địa chỉ email của ông đang bị tấn công.",
+            "generated_summary": "'mạng' đã xảy ra nằng tại một blog cá nhân của tôi.",
+            "rouge_scores": {
+                "rouge1": 0.5,
+                "rouge2": 0.1481,
+                "rougeL": 0.3214,
+                "rougeLsum": 0.3214
+            }
+        },
+        {
+            "id": "160601_us_warns_terror_euro_2016",
+            "url": "https://www.bbc.com/vietnamese/world/2016/06/160601_us_warns_terror_euro_2016",
+            "text": "Các cuộc tấn công có thể nhắm vào những điểm du lịch , nhà hàng , trung tâm thương mại và giao thông công cộng , theo Bộ Ngoại giao Hoa Kỳ \" Số lượng lớn khách du lịch đến châu Âu trong những tháng hè sẽ là mục tiêu lớn hơn cho phần tử khủng bố \" , Bộ Ngoại giao Hoa Kỳ cho biết . Các cuộc tấn công do các phần tử theo Đạo Hồi nhận trách nhiệm gần như xảy ra đồng thời tại sân vận động , phòng hòa nhạc , quán bar và nhà hàng làm 130 người chết và nhiều người bị thương . Trong tháng ba , 32 người thiệt mạng trong vụ đánh bom liều chết khi xảy ra vụ đánh bom sân bay Brussels và một ga tàu điện ngầm . Các cuộc tấn công có thể nhắm vào những điểm du lịch , nhà hàng , trung tâm thương mại và giao thông công cộng , với giải đấu Euro 2016 được nêu tên cụ thể , Bộ Ngoại giao Hoa Kỳ cho biết .",
+            "reference_summary": "Hoa Kỳ cảnh báo giải bóng đá Euro 2016 tổ chức tại Pháp sắp tới có thể trở thành một mục tiêu của các cuộc tấn công quân sự.",
+            "generated_summary": "Tổng thống Hoa Kỳ nói Trung tâm thương mại và giao thông công nước sẽ có thể nhắm trong vụ đánh bom sân bay Brussels.",
+            "rouge_scores": {
+                "rouge1": 0.506,
+                "rouge2": 0.1728,
+                "rougeL": 0.2651,
+                "rougeLsum": 0.2651
+            }
+        },
+        {
+            "id": "070616_palestine_westbank",
+            "url": "https://www.bbc.com/vietnamese/worldnews/story/2007/06/070616_palestine_westbank",
+            "text": "Khaled Meshaal , lãnh tụ chính trị của Hamas , người sống lưu vong tại Syria , nói rằng ông Abbas vẫn là chủ tịch \" hợp pháp \" của Palestine . Ủng hộ của Mỹ Sau hội đàm khẩn cấp giữa bộ trưởng ngoại giao các nước Arab , người phát ngôn của hội đồng các nước Arab , Amr Moussa , nói rằng cần \" chấm dứt ngay lập tức \" bạo lực tại Gaza mà ông gọi là tội ác . Ông nói các nước Arab muốn được \" phục vụ công cuộc của người Palestine , chứ không phải sự tranh chấp lẫn nhau giữa các nhóm . \" Ông nói : \" Đây là một chính phủ có ý định tuân thủ các nguyên tắc của các chính phủ Palestine trước đây trước thời chính phủ do Hamas lãnh đạo . \"",
+            "reference_summary": "Đụng độ giữa hai nhóm Hamas và Fatah tại Palestine đã lan đến vùng Bờ Tây, các tay súng Fatah tràn vào nhà quốc hội tại Ramallah.",
+            "generated_summary": "Thủ tướng Gaza nói rằng ông Abbas lãnh đạo các chính phủ của Iraq sẽ \"sự tranh chấp lẫn.",
+            "rouge_scores": {
+                "rouge1": 0.4615,
+                "rouge2": 0.0317,
+                "rougeL": 0.2154,
+                "rougeLsum": 0.2154
+            }
+        },
+        {
+            "id": "151219_mourinho_no_sabbatical",
+            "url": "https://www.bbc.com/vietnamese/world/2015/12/151219_mourinho_no_sabbatical",
+            "text": "Huấn luyện viên người Bồ Đào Nha này bị cho thôi việc sau khi đội Câu lạc bộ Chelsea thua tới 9 trận trong số 16 trận ở giải Ngoại hạng Anh kể từ đầu mùa giải khiến đội bóng này chỉ hơn ba đội có thể tụt hạng có một điểm . \" Tuy nhiên đội Chelsea tỏ ra chật vật ngay từ đầu mùa giải và Giám đốc kỹ thuật của câu lạc bộ này , ông Michael Emenalo , sau khi ông Mourinho ra đi đã nói về tình trạng \" bất hòa có thể cảm nhận được giữa huấn luyện viên và các cầu thủ \" . \" Jose Mourinho hài lòng về việc trở lại Chelsea vì ông có thể đem lại cho các cổ động viên thêm một danh hiệu vô địch Premier League mà họ đã không có được từ nhiều năm nay , \" tuyên bố của đại diện cho ông Mourinho viết tiếp . \" Ông rất tự hào về tám chiếc cúp của mình tại Chelsea , và cảm ơn các cổ động viên về sự ủng hộ của họ đối với ông trong suốt cả hai thời kỳ ông là huấn đội viên cho đội này . \"",
+            "reference_summary": "Ông Jose Mourinho sẽ không tạm nghỉ sau khi bị Chelsea sa thải hôm thứ Năm 17/12/2015.",
+            "generated_summary": "Chính phủ Chelsea đã tỏ ra về sự ủng hộ của ông trong đầu mùa giải.",
+            "rouge_scores": {
+                "rouge1": 0.3721,
+                "rouge2": 0.0,
+                "rougeL": 0.186,
+                "rougeLsum": 0.186
+            }
+        },
+        {
+            "id": "061130_nkorea_ban",
+            "url": "https://www.bbc.com/vietnamese/regionalnews/story/2006/11/061130_nkorea_ban",
+            "text": "Các lệnh trừng phạt nhắm vào mục tiêu là lối sống của lãnh tụ Bắc Hàn Kim Chính Nhật và gia đình những người ủng hộ cho ông Kim . Mức độ ảnh hưởng Lệnh cấm của Hoa Kỳ nhắm tới các quan chức Bắc Hàn thay vì tác động tới đại đa số người dân cùng cực , vốn thường phải đối diện với cảnh thiếu ăn . Thế nhưng , lệnh cấm đa phần mang tính hình thức , bởi hàng xuất khẩu của Mỹ sang Bắc Hàn vốn rất ít ỏi , chiếm chỉ chừng 5.8 triệu đô la trong năm 2005 , mà hầu hết là lương thực thực phẩm . Cho tới nay , Nhật và Hoa Kỳ đã đệ trình đề án của mình , trong lúc nhiều quốc gia Âu châu vẫn đang lên danh sách các mặt hàng mà họ sẽ cấm xuất sang Bắc Hàn .",
+            "reference_summary": "Hoa Kỳ đã cấm xuất khẩu hàng xa xỉ phẩm vào Bắc Hàn. Lệnh cấm là một phần trong các lệnh trừng phạt của Hoa Kỳ đối với vụ thử hạt nhân của Bình Nhưỡng.",
+            "generated_summary": "Dựng cấm của Hoa Kỳ Kim Chính Nhật nói rằng những quan chức đối với lãnh tụ Bắc Hàn.",
+            "rouge_scores": {
+                "rouge1": 0.5618,
+                "rouge2": 0.2759,
+                "rougeL": 0.3146,
+                "rougeLsum": 0.3146
+            }
+        },
+        {
+            "id": "031111_vn_us_wto_steel",
+            "url": "https://www.bbc.com/vietnamese/regionalnews/story/2003/11/031111_vn_us_wto_steel",
+            "text": "Ông Phạm Thanh Tùng , trưởng văn phòng đại diện tại Nga của công ty thép Đông Á , nhận định giá thép vẫn tăng vì trước đây giá thép ở Nga đã giảm khi Mỹ áp dụng hàng rào thuế quan nhưng sau đó tăng trở lại vì tìm được thị trường tiêu thụ mới . Ông Phạm Thanh Tùng cho rằng dù ít nhưng biến động giá thép thế giới vẫn ảnh hưởng đến thị trường Việt Nam : \" Việt Nam nhập thép rất nhiều , cả thép đặc chủng lẫn phôi thép \" . Giới chuyên gia ngành thép ở Việt Nam cho biết thị trường trong nước chịu ảnh hưởng mạnh từ các yếu tố cung - cầu từ nội địa , phụ thuộc vào các đợt hàng nhập vào các thời điểm khác nhau với số lượng khác nhau . Mặc dù vậy , hầu như phần lớn các ý kiến nhận định từ giới chuyên gia trong thị trường thép đều cho rằng biến động giá thép thế giới sẽ ảnh hưởng đến Việt Nam , nhưng là sau vài tháng nữa , do khác biệt giữa thời gian mua và nhập hàng . \"",
+            "reference_summary": "Ngành thép Việt Nam dù không phải là thị trường kinh doanh sôi động nhưng là mắt xích khởi điểm quan trọng cho các ngành đang phát triển như công nghiệp nhẹ và xây dựng.",
+            "generated_summary": "Thị trường thép thế giới sẽ rất tăng vì một đội nốc.",
+            "rouge_scores": {
+                "rouge1": 0.3467,
+                "rouge2": 0.0548,
+                "rougeL": 0.24,
+                "rougeLsum": 0.24
+            }
+        },
+        {
+            "id": "120824_viet_stocks",
+            "url": "https://www.bbc.com/vietnamese/vietnam/2012/08/120824_viet_stocks",
+            "text": "Chứng khoán Việt Nam mất giá hơn 5,6 tỷ đô la trong ba ngày 21 , 22 và 23 tháng Tám Sau vụ cựu sáng lập Ngân hàng Á Châu ACB Nguyễn Đức Kiên bị bắt , người mới đầu tuần này còn là Tổng Giám đốc ACB , ông Lý Xuân Hải , cũng đã bị bắt hôm 23 / 8 . AFP nói thị trường tăng 1,75 % trong ngày 24 / 8 sau ba ngày giảm liên tục nhưng giá trị cổ phiếu đã giảm hơn 5,6 tỷ đôla kể từ 20 / 8 . Trong ngày thứ Sáu cổ phiếu ACB tăng 3,8 % sau khi giảm 7 % mỗi ngày trong ba ngày trước đó . Hãng tin AFP cũng trích lời một chuyên gia nước ngoài giấu tên nói : \" [ Rủi ro rộng hơn là ] người dân mất lòng tin và các ngân hàng [ tư nhân ] và sẽ gây ra tình trạng rút tiền hàng hoạt ... đây là rủi ro kinh tế hệ thống . \"",
+            "reference_summary": "Thị trường chứng khoán niêm yết của Việt Nam bốc hơi năm tỷ đôla sau khi ông Nguyễn Đức Kiên bị bắt hôm 21/8, theo số liệu của hãng tin AFP.",
+            "generated_summary": "Thủ tướng Hoa Kỳ đã bắt giảm giá trị cổ phiếu ngân hàng ở Hà Nội với tháng 8, trong ba ngày thứ Sáu.",
+            "rouge_scores": {
+                "rouge1": 0.4878,
+                "rouge2": 0.05,
+                "rougeL": 0.2439,
+                "rougeLsum": 0.2439
+            }
+        },
+        {
+            "id": "131018_snowden_no_secret_files",
+            "url": "https://www.bbc.com/vietnamese/world/2013/10/131018_snowden_no_secret_files",
+            "text": "Edward Snowden nói ông hành động vì lợi ích chung Snowden nói với tờ The New York Times rằng ông đã chuyển tất cả các tài liệu cho báo giới tại Hồng Kông và không giữ lại bản sao nào . Một số phân tích gia cho rằng ông Snowden đã cộng tác với tình báo Trung Quốc , trong khi có các ý kiến khác nói rằng ông làm việc với người Nga . ' Ông nói công việc cuối cùng của ông cho NSA là tập trung vào Trung Quốc , và ông đã \" truy cập vào tất cả các mục tiêu \" , vì vậy ông thấy tự tin rằng các dữ liệu là \" an toàn \" đối với các cơ quan của Trung Quốc . Các thông tin bị rò rỉ bởi ông Snowden hé lộ việc các cơ quan NSA và CIA tiến hành theo dõi có hệ thống trên quy mô toàn cầu đối với các chính phủ , các doanh nghiệp và các thành viên công chúng .",
+            "reference_summary": "Người tiết lộ thông tin tình báo của Mỹ, Edward Snowden khẳng định ông không chuyển bất cứ tài liệu mật nào cho Nga khi đào thoát sang Moscow từ Hong Kong hồi tháng Sáu.",
+            "generated_summary": "Chính phủ Trung Quốc nói rằng ông Snowden đã gọi tổn đạo sẽ công việc của mình.",
+            "rouge_scores": {
+                "rouge1": 0.4304,
+                "rouge2": 0.1039,
+                "rougeL": 0.2278,
+                "rougeLsum": 0.2278
+            }
+        },
+        {
+            "id": "150105_nguyenbathanh_back",
+            "url": "https://www.bbc.com/vietnamese/vietnam/2015/01/150105_nguyenbathanh_back",
+            "text": "Ông Nguyễn Bá Thanh trong thời gian còn mạnh khỏe Tờ báo của Thành đoàn TP HCM cho hay \" gia đình ông Nguyễn Bá Thanh đã hoàn tất mọi thủ tục để có thể đưa ông Thanh rời Mỹ vào sáng 5 / 1 về quê nhà Ðà Nẵng tiếp tục dưỡng bệnh sau 4 tháng 19 ngày điều trị tích cực tại một bệnh viện ở Mỹ \" . Trước đó một số trang mạng không chính thống cũng đã đưa tin ông Nguyễn Bá Thanh , cựu Bí thư Đà Nẵng , sẽ được chuyển về nước ngày 6 / 1 chứ không phải 2 / 1 như nhiều người đồn đoán . Tuy nhiên báo Tuổi Trẻ là một trong số ít báo chính thống loan tin ông Nguyễn Bá Thanh được đưa về nước . Bệnh viện Ung bướu Cũng theo nguồn Tuổi Trẻ , ông Thanh được cho là sẽ được tiếp tục điều trị tại Bệnh viện Ung bướu Đà Nẵng , nơi một phòng bệnh \" đã được cải tạo tươm tất \" .",
+            "reference_summary": "Báo Tuổi Trẻ dẫn nguồn tin riêng nói Trưởng ban Nội chính Trung ương Nguyễn Bá Thanh sẽ được đưa về Việt Nam ngày 6/1.",
+            "generated_summary": "Thủ tục ông Nguyễn Bá Thanh của TP HCM đã điều trị bệnh viện ở Đà Nẵng đang bị công bốn một số người trong thời gian này.",
+            "rouge_scores": {
+                "rouge1": 0.6316,
+                "rouge2": 0.1351,
+                "rougeL": 0.2895,
+                "rougeLsum": 0.2895
+            }
+        },
+        {
+            "id": "081129_mumbai_siege",
+            "url": "https://www.bbc.com/vietnamese/worldnews/story/2008/11/081129_mumbai_siege",
+            "text": "JK Dutt , chỉ huy trưởng của lực lượng tinh nhuệ Cận vệ An ninh , được thông tấn Reuters trích lời nói có xác người bị ném ra khỏi cửa sổ của khách sạn Taj và đó là xác của một dân quân . Hôm thứ Sáu , gần 100 người được cứu thoát khỏi khách sạn thứ hai , và sáu xác chết được tìm thấy tại một trung tâm Do thái giáo . Đặc biệt tinh nhuệ Người ta nghe thấy các tiếng nổ và chạm súng bên trong khách sạn Taj Mahal Palace vào khoảng 0730 sáng ( 0200 GMT ) thứ Bảy , và chứng kiến cảnh binh lính tràn vào sảnh KS để truy quét những dân quân cuối cùng còn cố thủ bên trong . Việc chạm súng dường như đã kết thúc tại các nơi bị tấn công khác ở Mumbai , trong đó có KS Oberoi - Trident - nơi gần 100 con tin được cứu thoát và 24 xác người được mang ra ngoài hôm thứ Sáu .",
+            "reference_summary": "Quan chức cảnh sát Ấn Độ tuyên bố đã giành hoàn toàn kiểm soát tại khách sạn Taj Mahal ở Mumbai, sau khi tiêu diệt những dân quân cuối cùng.",
+            "generated_summary": "Hội đồng dân quân vào ngày thứ Sáu, sẽ tấn công của Trung Quân.",
+            "rouge_scores": {
+                "rouge1": 0.3662,
+                "rouge2": 0.1449,
+                "rougeL": 0.1972,
+                "rougeLsum": 0.1972
+            }
+        },
+        {
+            "id": "world-38281282",
+            "url": "https://www.bbc.com/vietnamese/world-38281282",
+            "text": "Hiện trường vụ nổ ngày 10 / 12 TAK , một nhánh của Đảng Công nhân Người Kurd ( PKK ) , ra tuyên bố này trên trang web . Ít nhất 38 người chết gần sân Vodafone Arena khi một quả bom xe đánh trúng xe cảnh sát , và một kẻ đánh bom tự sát làm nổ mình gần đó sau một trận bóng đá . Ảnh đăng trên Instagram sau vụ nổ cho thấy mũ bảo hiểm văng trên một con phố và xe cộ bị hư hỏng . Hình chụp cảnh sát bị thương Không có nhóm nào nhận đứng đằng sau cuộc tấn công nhưng một loạt các vụ đánh bom ở Thổ Nhĩ Kỳ trong năm nay đã được thực hiện bởi cả PKK và tổ chức gọi là Nhà nước Hồi giáo ( IS ) , phóng viên BBC Mark Lowen ở Istanbul , nói .",
+            "reference_summary": "Nhóm dân quân người Kurd TAK tuyên bố họ tiến hành cuộc tấn công chết người hôm thứ Bảy nhắm vào cảnh sát bên ngoài một sân vận động ở Istanbul.",
+            "generated_summary": "Thủ sự nổ tấn công cảnh sát của Đảng Công nghị Người Kurd và Trung Quối ở Istanbul đã bị thương.",
+            "rouge_scores": {
+                "rouge1": 0.5432,
+                "rouge2": 0.2278,
+                "rougeL": 0.2963,
+                "rougeLsum": 0.2963
+            }
+        },
+        {
+            "id": "world-46436409",
+            "url": "https://www.bbc.com/vietnamese/world-46436409",
+            "text": "Hồi ký của Michelle Obama trở thành bestseller Michelle Obama ' sinh con nhờ thụ tinh nhân tạo ' Obama đọc diễn văn chia tay Bà cũng nhắc lại vụ Nữ hoàng Anh nói ' ' nghi thức ngoại giao của hoàng gia ' ' là \" vô giá trị \" khi bà cùng phu quân Barack Obama đến thăm Lâu đài Windsor . Cuốn sách là một cửa sổ để nhìn vào cuộc sống cá nhân của gia đình Obama trước , trong suốt , và sau thời gian tại Nhà Trắng , khi bà Michelle Obama trở thành đệ nhất phu nhân người Mỹ gốc Phi đầu tiên và ông Barack Obama là tổng thống Mỹ da màu đầu tiên . Trong cuốn hồi ký , bà Michelle Obama tiết lộ những khó khăn trong cuộc hôn nhân của mình với ông Barack Obma , trong đó có chi tiết bà bị sảy thai và sau đó phải thụ tinh trong ống nghiệm ( IVF ) để thụ thai cả hai con Malia và Sasha . Bà Michelle Obama , 54 tuổi , cũng chỉ trích Tổng thống Mỹ Donald Trump , viết rằng bà không bao giờ tha thứ cho ông vì đã \" đặt sự an toàn của gia đình tôi vào tiình thế nguy hiểm \" khi cổ súy cho giả thuyết rằng chồng bà không sinh ra ở Mỹ và do đó không phải là một tổng thống hợp pháp của Hoa Kỳ .",
+            "reference_summary": "Cựu đệ nhất phu nhân Mỹ Michelle Obama nói rằng bà vẫn cảm thấy \"hội chứng tự hoài nghi\" và nói thêm rằng \"cảm giác đó không bao giờ biến mất\" trong cuộc trò chuyện ở London.",
+            "generated_summary": "Cuốn sách tổng thống Mỹ Barack Obama đã trở lại vào cuộc hôn nhân.",
+            "rouge_scores": {
+                "rouge1": 0.4416,
+                "rouge2": 0.0533,
+                "rougeL": 0.2338,
+                "rougeLsum": 0.2338
+            }
+        },
+        {
+            "id": "vietnam-39288573",
+            "url": "https://www.bbc.com/vietnamese/vietnam-39288573",
+            "text": "Trong thư , ông Vinh còn nhắc lại phát ngôn của ông Phúc rằng \" không đánh đổi môi trường lấy kinh tế , gây ảnh hưởng cuộc sống bình yên của người dân \" . ' Phép thử ' Cùng ngày , một nhà hoạt động môi trường , ông Nguyễn Anh Tuấn , nói với BBC : \" Thư của ông Huỳnh Tấn Vinh là động thái rất tích cực của người làm du lịch Đà Nẵng . \" \" Thư cũng đã được gửi đến đúng địa chỉ là Thủ tướng Nguyễn Xuân Phúc vì chính ông có phần liên đới trách nhiệm đối với những gì đang xảy ra ở Sơn Trà hôm nay . \" \" Đây sẽ là phép thử đối với Thủ tướng Phúc và việc ông phản ứng với thư này sẽ cho công chúng thấy cách mà ông đối mặt với cam kết của chính mình trong quá khứ ra sao . \"",
+            "reference_summary": "Những ngày qua, truyền thông Việt Nam và mạng xã hội xôn xao tin có 40 biệt thự xây không phép trong khu tổ hợp khách sạn, biệt thự nghỉ dưỡng với quy mô hơn 100 phòng tại khu vực bán đảo Sơn Trà.",
+            "generated_summary": "Thủ tướng Nguyễn Xuân Phúc đã được gửi thử đối với các chính thư của ông Huỳnh Tấn Vinh.",
+            "rouge_scores": {
+                "rouge1": 0.3918,
+                "rouge2": 0.0211,
+                "rougeL": 0.2268,
+                "rougeLsum": 0.2268
+            }
+        },
+        {
+            "id": "150921_apple_app_store_infected",
+            "url": "https://www.bbc.com/vietnamese/world/2015/09/150921_apple_app_store_infected",
+            "text": "Kho ứng dụng của Apple thường được coi là nơi có độ an toàn cao do kiểm soát từ đầu vào rất chặt chẽ – chỉ có một vài ví dụ nhỏ về các phần mềm độc cho ứng dụng iOS , so với Play store của Google mà trong một thời gian bị coi là “ miền Tây hoang dã ” đối với các ứng dụng ( cho tới khi Google đưa ra được hệ thống quét phần mềm gây hại ) . Và thứ hai là các nhân viên thử nghiệm chất lượng của Apple , những người thường rất giỏi trong việc ngăn chặn những thứ độc hại , nhưng trong trường hợp này , đã không thể phát hiện ra hiểm họa . Thiếu cẩn trọng Người dùng ở thị trường mới nổi như Việt Nam , Trung Quốc được cho là ít chú ý tới an ninh và bảo vệ thông tin riêng trên di động Trên blog chính thức của WeChat , Tencent nói vấn đề an ninh chỉ ảnh hưởng tới bản cũ hơn của ứng dụng – WeChat 6.2.5 và bản mới nhất không bị ảnh hưởng . Tôi tin rằng XcodeGhost là phần mềm có hại và nguy hiểm được Apple bỏ qua trong lần kiểm tra mã và tạo ra vụ tấn công chưa từng có tiền lệ vào hệ sinh thái của iOS , ” theo bài viết trên trang mạng của hãng .",
+            "reference_summary": "Apple cho biết đang thực hiện các bước nhằm loại bỏ mã độc được thêm vào nhiều ứng dụng phổ biến trên iPhones và iPad ở Trung Quốc.",
+            "generated_summary": "Tổng thống mạng Trung Quốc của hãng Apple đang vào các ứng dụng bị tạo bạn.",
+            "rouge_scores": {
+                "rouge1": 0.5588,
+                "rouge2": 0.2121,
+                "rougeL": 0.3235,
+                "rougeLsum": 0.3235
+            }
+        },
+        {
+            "id": "150105_plenum_10_opens",
+            "url": "https://www.bbc.com/vietnamese/vietnam/2015/01/150105_plenum_10_opens",
+            "text": "Từ bây giờ cho đến ngày Đại hội sẽ có hàng loạt đại hội Đảng bộ các tỉnh , thành , các cơ quan , ban , ngành và hậu trường Đảng cũng nóng lên với việc chuẩn bị nhân sự cho Ban Chấp hành Trung ương và Bộ Chính trị khóa tới . Trao đổi với BBC , Giáo sư Nguyễn Minh Thuyết , người từng là phó chủ tịch Ủy ban Văn hóa - Giáo dục - Nhi đồng của Quốc hội , dự đoán kết quả lấy phiếu tín nhiệm trong Đảng ‘ sẽ có ảnh hưởng nhất định ’ tới chức vụ các vị trong Bộ Chính trị lưu nhiệm trong khóa tới . Các ông Trọng , Sang , Dũng sẽ được các ủy viên trung ương đánh giá thành tích Các cán bộ được đưa ra đánh giá tín nhiệm mà ông Trọng nói tới là các ủy viên Bộ Chính trị và các thành viên Ban bí thư . “ Rút kinh nghiệm ở Quốc hội tôi thấy là có lẽ những kết quả ấy không thể hiên được rõ lắm sự đánh giá của những người bỏ phiếu cũng như đánh giá của người dân , ” ông nói thêm và cho biết Đảng ‘ cũng có rút những kinh nghiệm nhất định ’ từ việc lấy phiếu tín nhiệm ở Quốc hội .",
+            "reference_summary": "Hội nghị toàn thể lần thứ 10 của Ban chấp hành Trung ương Đảng Cộng sản Việt Nam vừa khai mạc sáng nay ngày 5/1 tại Hà Nội với nhiều nghị trình quan trọng chuẩn bị cho Đại hội lần thứ 12.",
+            "generated_summary": "Một thành viên Đảng chính trị Trung ương đối với một lãnh đạo đảng và các số công dân trong tỉnh nếu không có nên lấy phiếu tín nhiệm ở Quốc hội.",
+            "rouge_scores": {
+                "rouge1": 0.6207,
+                "rouge2": 0.1228,
+                "rougeL": 0.3103,
+                "rougeLsum": 0.3103
+            }
+        },
+        {
+            "id": "media-50461818",
+            "url": "https://www.bbc.com/vietnamese/media-50461818",
+            "text": "Ngay lập tức , ông Phạm Tuấn Thọ cùng bốn người bạn chạy xe ô tô chừng 400 cây số từ thị trấn Zwickau , Karl Max Stadt của Đông Đức ( nay được đổi lại tên cũ là Chemnitz ) giáp biên Tiệp Khắc , lên Đông Berlin , với khát khao được sang Tây Berlin . Là phiên dịch , phó đoàn quản lý lao động xuất khẩu người Việt Nam khi đó , ông kể lại : \" Tôi không biết mình có đi qua được hay không nhưng vẫn quyết tâm đi \" . Ông Phạm Tuấn Thọ , người đã tận mắt chứng kiến những gì xảy ra tại Cổng Brandenburg và chốt kiểm soát Checkpoint Charlie ở Berlin vào đêm lịch sử đêm 9 / 11 / 1989 , mở đầu cho sự sụp đổ của Bức tường Berlin , kể với BBC News Tiếng Việt về hành trình vượt biên của mình , từ Đông Đức sang phía Tây . Chương trình do Bình Khuê thực hiện và biên tập trong dịp kỷ niệm 30 năm Bức tường Berlin sụp đổ .",
+            "reference_summary": "Tối 9/11/1989, tin đường biên Đông - Tây được mở cho người dân Đức đi lại tự do được phát trên truyền thông.",
+            "generated_summary": "Thủ tịch của ông Phạm Tuấn Thọ đã đổi viên Tây Berlin ở Berlin.",
+            "rouge_scores": {
+                "rouge1": 0.4231,
+                "rouge2": 0.08,
+                "rougeL": 0.2308,
+                "rougeLsum": 0.2308
+            }
+        },
+        {
+            "id": "060705_portugal_fance",
+            "url": "https://www.bbc.com/vietnamese/worldcup/story/2006/07/060705_portugal_fance",
+            "text": "Thủ môn Ricardo , người nói Thượng đế là người Bồ Đào Nha sau khi anh cản phá được ba cú đá penalty trong trận gặp Anh đã chịu bó tay trước cú sút của Zidane vào phút 33 trong hiệp một . Ronaldo hai lần kịch hóa những màn ngã trong khu phạt đền tuy nhiên trọng tài đã không mắc bẫy . Pháp đá với chiến lược phòng thủ trong hiệp hai và họ đã gặp may khi các cú sút của các cầu thủ Bồ Đào Nha đều trúng người thủ môn hoặc đi chệch khung thành . Tuy nhiên trọng tài đã không cho Bồ Đào Nha hưởng penalty khi Ronaldo ngã trong vòng cấm địa của Pháp và đó là quyết định đúng đắn .",
+            "reference_summary": "Zinedine Zidane đưa Pháp vào chung kết gặp Ý với bàn thắng từ chấm phạt đền trong trận gặp Bồ Đào Nha sau khi Henry bị chèn ngã trong khu cấm địa.",
+            "generated_summary": "Chính số Ronaldo đã gặp từ hiệp một cầu thủ Bồ Đào Nha.",
+            "rouge_scores": {
+                "rouge1": 0.3934,
+                "rouge2": 0.1017,
+                "rougeL": 0.2623,
+                "rougeLsum": 0.2623
+            }
+        },
+        {
+            "id": "081008_halleberry_sexiest",
+            "url": "https://www.bbc.com/vietnamese/culture/story/2008/10/081008_halleberry_sexiest",
+            "text": "Khi nghe tin được bầu chọn như vậy , Berry nói : “ Tôi cũng không rõ danh hiệu đó chính xác nghĩa là gì , nhưng bây giờ ở tuổi 42 lại vừa mới sinh con , tôi nghĩ tôi sẽ nhận danh hiệu này ” . Nữ diễn viên từng đóng phim ‘ Monster ’ s Ball ’ còn nói : “ Tôi biết chắc là mình bây giờ trông hấp dẫn hơn ngày xưa ” . Nói chuyện với Esquire , cô nói : “ Tôi cần phải cảm ơn một số người , và cần phải quên đi một số người . \" Tôi cảm thấy mình hấp dẫn hơn khi là một người mẹ ” .",
+            "reference_summary": "Độc giả của tạp chí Esquire của Mỹ bầu chọn nữ diễn viên đoạt giải Oscar, Halle Berry, là “người phụ nữ sexy nhất còn đang sống”.",
+            "generated_summary": "Cuộc tại Hà Nưa, của nưới sẽ gọi chính xác nghĩa.",
+            "rouge_scores": {
+                "rouge1": 0.3667,
+                "rouge2": 0.0,
+                "rougeL": 0.2333,
+                "rougeLsum": 0.2333
+            }
+        },
+        {
+            "id": "140403_imf_global_growth_warning",
+            "url": "https://www.bbc.com/vietnamese/world/2014/04/140403_imf_global_growth_warning",
+            "text": "Bà Christine Lagarde kêu gọi các nước có những \" chính sách táo bạo \" để tránh tăng trưởng thấp Bà Christine Lagarde cảnh báo nếu không có những \" hành động dũng cảm \" , thế giới có thể sẽ bị kẹt trong \" bẫy tăng trưởng thấp \" . Bà nói nền kinh tế toàn cầu được dự đoán sẽ tăng trưởng hơn 3 % trong năm nay và năm sau , tuy nhiên , những biến động của thị trường và căng thẳng tại Ukraine vẫn có nguy cơ mang lại rủi ro . Bà Lagarde cũng thúc giục tiến hành các biện pháp nhằm cải thiện mức lạm phát thấp trong khu vực đồng euro và kêu gọi Ngân hàng Trung ương châu Âu ( ECB ) áp dụng \" chính sách nới lỏng tiền tệ , bao gồm cả những biện pháp khác với thông lệ . \" Bẫy tăng trưởng thấp ' Tổng giám đốc của IMF nói nền kinh tế toàn cầu nhìn chung đang có những tín hiệu tích cực , tuy nhiên , nếu thiếu \" những chính sách táo bạo và hiệu quả , thế giới có thể sẽ rơi vào bẫy tăng trưởng thấp đến trung bình \" .",
+            "reference_summary": "Nền kinh tế toàn cầu có thể sẽ phải đối mặt với tăng trưởng dưới mức trung bình trong nhiều năm tới, tổng giám đốc Quỹ Tiền tệ Quốc tế (IMF) cho biết.",
+            "generated_summary": "Bà Christine Lagarde tăng trưởng thấp của các nền kinh têi trong khu vực đồng euro sẽ thay đổi.",
+            "rouge_scores": {
+                "rouge1": 0.5063,
+                "rouge2": 0.1818,
+                "rougeL": 0.2278,
+                "rougeLsum": 0.2278
+            }
+        },
+        {
+            "id": "070709_riedle_iv",
+            "url": "https://www.bbc.com/vietnamese/vietnam/story/2007/07/070709_riedle_iv",
+            "text": "Ông cho rằng trận giao hữu gặp Bahrain thực sự là một điểm mốc quan trọng trong quá trình chuẩn bị đội tuyển , và trong mùa giải này , các cầu thủ Việt Nam \" rất tự tin khi ra sân \" . Nhà cầm quân của đội tuyển Việt Nam nói ông biết đêm qua thanh niên Việt Nam phóng xe máy trên đường để ăn mừng chiến thắng , nhưng ông đang phải dành thời giờ và tâm trí cho hai trận gặp Qatar và Nhật Bản sắp tới . Tin của VnExpress trích nguồn từ đội tuyển Nhật Bản nói họ mong Việt Nam gặp nhiều thẻ vàng trong trận gặp Qatar để bớt gây khó khăn trong trận đấu ngày 16 tới đây . Cũng trong đêm qua , trận hòa 1 - 1 với Oman của Úc , đội được coi là mạnh nhất trong mùa giải năm nay , đã khiến giới bình luận bất ngờ .",
+            "reference_summary": "Hai bàn thắng ở phút thứ 62 của Quang Thanh và Công Vinh ở phút thứ 73 đã đem lại chiến thắng cho đội tuyển Việt Nam trong trận đầu tiên của giải Asian Cup 2007.",
+            "generated_summary": "Của Bahrain và Nhật Bản tại mùa giới tranh cảnh sẽ gặp nữa.",
+            "rouge_scores": {
+                "rouge1": 0.2817,
+                "rouge2": 0.0,
+                "rougeL": 0.169,
+                "rougeLsum": 0.169
+            }
+        },
+        {
+            "id": "090121_guantanamo_trials",
+            "url": "https://www.bbc.com/vietnamese/worldnews/story/2009/01/090121_guantanamo_trials",
+            "text": "Lời yêu cầu này sẽ ngưng tiến trình xét xử của 21 trường hợp còn đang thụ lý , trong đó có trường hợp của năm người bị cáo buộc tội âm mưu tổ chức các vụ tấn công vào ngày 11 tháng Chín năm 2001 . Tài liệu gồm hai trang giấy , được đích thân ông Obama và Bộ Quốc Phòng Hoa Kỳ ra lệnh , muốn ngưng các vụ xét xử trong 120 ngày và sẽ được hai thẩm phán tiếp nhận hôm nay , thứ Tư . Các viên chức nói ông Obama cũng sẽ hội kiến qua video với các vị chỉ huy quân sự tại Iraq và Afghanistan . Tuy nhiên , việc bổ nhiệm bà Hillary Clinton vào chức Ngoại Trưởng đã bị hoãn lại sau khi một thượng nghị sĩ Cộng Hòa đã yêu cầu bàn thảo về các khoản tặng từ nước ngoài cho một quỹ mà chồng của bà , cựu Tổng Thống Bill Clinton , đứng đầu .",
+            "reference_summary": "Ông Barack Obama đã yêu cầu ngưng tất cả các tòa án quân sự tại vịnh Guantanamo trong ngày làm việc đầu tiên ở cương vị Tổng Thống Hoa Kỳ.",
+            "generated_summary": "Chủ tế Hoa Kỳ sẽ tiếp nhận các trường hợp của năm nay.",
+            "rouge_scores": {
+                "rouge1": 0.4375,
+                "rouge2": 0.129,
+                "rougeL": 0.2188,
+                "rougeLsum": 0.2188
+            }
+        },
+        {
+            "id": "121103_barroso_visits_burma",
+            "url": "https://www.bbc.com/vietnamese/world/2012/11/121103_barroso_visits_burma",
+            "text": "Cuộc sống đang được kỳ vọng đổi mới từng ngày ở Miến Điện sau nhiều thập niên nước này đóng cửa với thế giới Hai chính khách đã gặp nhau tại thủ đô mới , Nay Pyi Taw , và thảo luận các bước để thúc đẩy thương mại sau nhiều thập niên Miến Điện chịu các biện pháp trừng phạt dưới thể chế cầm quyền độc tài quân sự . Trong những tháng gần đây , bạo lực giữa những người Rohingyas và các Phật tử ở bang Rakhine đã buộc 100.000 người phải rời bỏ nhà cửa của họ . ‘ Thương mại và nhân quyền ' Bà Aung San Suu Kyi đang chịu chỉ trích vì đã ' không lên tiếng đủ ' về vấn đề của người thiểu số Rohingyas Trong thập kỷ trước , các liên kết thương mại và viện trợ giữa EU và Miến Điện chỉ là một phần nhỏ trong các gói của EU dành cho các nước ở châu Á . Phóng viên của BBC , Jonathan Head , có mặt tại Nay Pyi Taw cho hay hiện đang có ' thất vọng ' trong dư luận khi lãnh tụ đối lập Aung San Suu Kyi không thể lên tiếng một cách rõ ràng trong cuộc gặp với ông Barroso về tình trạng nhân quyền đối với những người thiểu số Rohingyas .",
+            "reference_summary": "Chủ tịch Ủy ban châu Âu Jose Manuel Barroso đề nghị cung cấp cho Miến Điện hơn 100 triệu USD viện trợ phát triển trong chuyến thăm nước này và gặp gỡ với Tổng thống Thein Sein.",
+            "generated_summary": "Quốc của Miến Điện trong những năm từ thế giới, các lãnh đạo ở châu Áa đã rằng 'tấn quyền' vào nhận sự.",
+            "rouge_scores": {
+                "rouge1": 0.4667,
+                "rouge2": 0.1136,
+                "rougeL": 0.2444,
+                "rougeLsum": 0.2444
+            }
+        },
+        {
+            "id": "151105_sinai_crash_bomb",
+            "url": "https://www.bbc.com/vietnamese/world/2015/11/151105_sinai_crash_bomb",
+            "text": "Đa số nạn nhân là người Nga Ngoại trưởng Anh Philip Hammond nói với các nhà báo tối thứ Tư 4 / 11 : \" Chúng tôi kết luận rằng có nhiều khả năng là một thiết bị nổ trên máy bay đã gây ra vụ tai nạn \" . Ông Hammond nói Anh quốc tạm ngưng vô thời hạn tất cả các chuyến bay đến và đi từ Sharm el - Sheikh , đồng thời sẽ có biện pháp an ninh bổ sung để giúp các công dân Anh tại đó về nước . Các phát biểu trên được đưa ra trong chuyến thăm Anh của Tổng thống Ai Cập Abdul Fattah al - Sisi và Ngoại trưởng Hammond nhấn mạnh rằng quyết định tạm ngưng các chuyến bay được đưa ra một cách \" rất miễn cưỡng \" . Một quan chức Hoa Kỳ không nêu tên nói với hãng thông tấn Associated Press rằng Hoa Kỳ đã \" có kết luận tạm thời \" sau khi có tin tình báo , rằng một nhánh của IS trên bán đảo Sinai đã đặt thiết bị nổ trên máy bay , Các dữ liệu bay trong hộp đen đang được tiếp tục phân tích Một quan chức khác nói với hãng AFP : \" Bom là kịch bản có khả năng cao \" .",
+            "reference_summary": "Quan chức Anh và Mỹ nói tình báo cho hay chiếc máy bay của hãng hàng không Nga rơi tại Ai Cập hôm 31/10 có thể bị đặt bom.",
+            "generated_summary": "Thủ tướng Anh Philip Hammoon nói một trong các nhà bá chức Hoa Kỳ đã được công thức rằng có nạn nhân của mình vào một cách \"tạm ngưng\".",
+            "rouge_scores": {
+                "rouge1": 0.5618,
+                "rouge2": 0.092,
+                "rougeL": 0.3146,
+                "rougeLsum": 0.3146
+            }
+        },
+        {
+            "id": "080130_ukbankrescue",
+            "url": "https://www.bbc.com/vietnamese/business/story/2008/01/080130_ukbankrescue",
+            "text": "Ông cũng muốn các ngân hàng trả tiền vào một quĩ cứu trợ trong trường hợp một ngân hàng bị thua lỗ , thay vì trả sau như hiện nay . Nhưng ông không đồng ý với giải pháp tăng thêm số tiền bảo chứng lên cao hơn mức hiện tại là 35.000 bảng Anh cho mỗi khách hàng . Theo kế hoạch mới , Ngân hàng trung ương Anh quốc sẽ không còn phải thông báo hàng tuần về số tiền mà họ chi ra trong tài khoản cứu trợ khẩn cấp . Cũng theo đó , ngân viên của Ngân hàng trung ương sẽ không bị các nhà đầu tư kiện cáo nếu không hài lòng về cách hành xử của họ với một ngân hàng cụ thể nào đó .",
+            "reference_summary": "Bộ trưởng tài chính Anh đề nghị giải pháp cho phép bí mật cứu trợ các ngân hàng gặp khó khăn.",
+            "generated_summary": "Một ngân hàng Trung ương Anh sẽ với tại các lãnh vực chính phủ Việt Nam đã bị chứng lên cao.",
+            "rouge_scores": {
+                "rouge1": 0.4308,
+                "rouge2": 0.0635,
+                "rougeL": 0.2462,
+                "rougeLsum": 0.2462
+            }
+        },
+        {
+            "id": "vietnam-48999802",
+            "url": "https://www.bbc.com/vietnamese/vietnam-48999802",
+            "text": "Sự hiện diện của tàu khảo sát của Trung Quốc trên lãnh thổ Biển Đông dẫn đến cuộc đối đầu Ngày 16 / 7 , Tổ chức Sáng kiến Minh bạch Hàng hải Châu Á ( Asia Maritime Transparency Initiative ) , trực thuộc CSIS ở Washington DC , công bố hai diễn biến chính trong vụ đối đầu tại bãi Tư Chính : Một là hoạt động của tàu thăm dò dầu khí Trung Quốc Haiyang Dizhi 8 , mà đã được hé lộ qua Twitter và Facebook mấy ngày vừa rồi . Bình luận chuyện báo VN ' im ' về vụ bãi Tư Chính Bãi Tư Chính : ' VN nên công bố chi tiết ' và đừng ' hạn chế báo chí ' \" Đối đầu \" giữa các tàu TQ và VN lại xảy ra ở Biển Đông Bãi Tư Chính và lô 06 - 01 : Rõ hơn về tàu Trung Quốc ‘ quấy nhiễu ’ Việt Nam Trong khi đó , cả thông cáo của Bộ Ngoại giao Việt Nam và bài trả lời của Thượng tướng Nguyễn Chí Vịnh được đăng trên các báo đều không nhắc tên \" Trung Quốc \" và \" bãi Tư Chính \" . \" \" Đây có thể đơn thuần là động thái thể hiện quan điểm chủ quyền , trong bối cảnh các đảo nhân tạo đã được quân sự hóa và đi vào hoạt động , cũng như thăm dò phản ứng của Việt Nam , gây sức ép với Hà Nội về một số vấn đề nào đó , hoặc đánh lạc hướng dư luận trong nước trong bối cảnh thương chiến với Mỹ . \" \" Thậm chí việc người dân tưởng niệm các chiến sĩ hy sinh trong các trận hải chiến với Trung Quốc hàng năm cũng bị chính quyền ngăn cản thì việc Bộ Ngoại giao nhẹ nhàng lên tiếng và tướng Vịnh không nhắc tới bãi Tư Chính khiến người dân phải nghi ngờ việc bảo vệ toàn vẹn biển đảo của Việt Nam . \"",
+            "reference_summary": "Một nhà quan sát bình luận với BBC rằng trong vụ đối đầu ở bãi Tư Chính, cả Việt Nam và Trung Quốc \"đều không muốn leo thang thành xung đột\", nhưng \"rủi ro vẫn rất lớn\".",
+            "generated_summary": "Thủ tướng Trung Quốc Nguyễn Văn Vịnh đãi Tư Chính, sẽ công bố của tàu thăm dò dầu khí Việt Nam.",
+            "rouge_scores": {
+                "rouge1": 0.6207,
+                "rouge2": 0.2353,
+                "rougeL": 0.2989,
+                "rougeLsum": 0.2989
+            }
+        },
+        {
+            "id": "world-38558186",
+            "url": "https://www.bbc.com/vietnamese/world-38558186",
+            "text": "Ông Donald Trump và bà Thái Anh Văn Bà Thái Anh Văn đã có cuộc gặp gỡ với Thượng nghị sĩ bang Texas Ted Cruz và Thống đốc Greg Abbott khi quá cảnh tại Houston trên đường đến Trung Mỹ . Tuy nhiên , vào hôm 7 / 1 , đại diện của Tổng thống đắc cử Donald Trump cho biết ông Trump và các nhân viên của ông sẽ không có cuộc gặp gỡ với bà Thái . Công du Trung Mỹ Ông Donald Trump và bà Thái Anh Văn Chuyến quá cảnh của bà Thái xảy ra trong chuyến công du đến một loạt quốc gia gồm Honduras , Nicaragua , Guatemala , và El Salvador . Trong một thông cáo chính thức của Thượng nghị sĩ Cruz , dân biểu Đảng Cộng hòa cùng tranh cử với ông Trump trong cuộc bầu cử vừa qua , ông Cruz chia sẻ rằng ông và bà Thái đã trao đổi về việc \" buôn bán vũ khí , quan hệ ngoại giao và hợp tác kinh tế . \"",
+            "reference_summary": "Báo chí Trung Quốc lại lên tiếng cảnh báo Hoa Kỳ phải tuân thủ chính sách 'Một Trung Quốc' sau khi Tổng thống Đài Loan quá cảnh Houston.",
+            "generated_summary": "Một nhân viên của Trung Mỹ Donald Trump và các nhà báo chí tổng thống Cộng hòa Việt Nam nói rằng bà Thái Anh văn đã có cuộc bầu cử với ông Donald Cruz.",
+            "rouge_scores": {
+                "rouge1": 0.5053,
+                "rouge2": 0.1935,
+                "rougeL": 0.2947,
+                "rougeLsum": 0.2947
+            }
+        },
+        {
+            "id": "060803_ukraine_eu",
+            "url": "https://www.bbc.com/vietnamese/worldnews/story/2006/08/060803_ukraine_eu",
+            "text": "Uỷ hội châu Âu nói rằng điều quan trọng là Ukraina phải sớm có một chính phủ quyết tâm cải cách , trong khi Nato nói họ tôn trọng sự lựa chọn chính trị của một đất nước dân chủ . Tuy nhiên , các cuộc đàm phán về một thỏa thuận mới với Ukraina , trong đó có việc thiết lập khu vực mậu dịch tự do , có thể sẽ bị lùi lại cho tới khi nào hướng đi của đất nước này trở nên rõ ràng hơn . Hiệp định liên minh cầm quyền mới tại Ukraina đề cập tới việc tiếp tục hội nhập vào EU và hợp tác với Nato , nhưng cũng kêu gọi trưng cầu dân ý về chuyện nước này cuối cùng có muốn trở thành thành viên của khối hiệp ước quân sự Bắc Đại Tây Dương hay không . Một quan chức của Nato mô tả văn bản này là tích cực và nói chung quan hệ của họ với Ukraina vẫn tốt .",
+            "reference_summary": "Liên hiệp châu Âu đã chào đón một cách thận trọng thoả hiệp chính trị mà Ukraina mới có được, nhằm chấm dứt tình trạng bế tắc sau khi cuộc tổng tuyển cử hồi tháng Ba không đi đến hồi ngã ngũ.",
+            "generated_summary": "Chính tước của Ukraina vào ngày tháng năm 2018, các cuộc thẩu sứt yền cới là một đồng hồi hôm nay.",
+            "rouge_scores": {
+                "rouge1": 0.5192,
+                "rouge2": 0.1373,
+                "rougeL": 0.3269,
+                "rougeLsum": 0.3269
+            }
+        },
+        {
+            "id": "world-39691980",
+            "url": "https://www.bbc.com/vietnamese/world-39691980",
+            "text": "Ngay sau khi có kết quả bầu cử , đồng Euro tăng 2 % so với đồng đô la Mỹ , lên 1.09395 USD , mức cao nhất kể từ ngày 10 / 11 / 2016 , ngày có kết quả bầu cử tổng thống Mỹ . Thế hệ Macron hết nghĩ về VN qua HCM Bầu cử tổng thống Pháp : Macron và Le Pen vào vòng hai So với đồng bảng Anh , đồng Euro tăng 1,2 % , ở mức 0,8480 GBP. So với đồng Yên Nhật , đồng tiền các nhà đầu tư thường đổ vào mua khi họ cho là có rủi ro cao , đồng Euro tăng tới 3 % rồi hạ chút ít xuống mức 119.50 Yen . Bà cho rằng kết quả bầu cử Pháp vòng một là tích cực vì hai lý do : \" Thứ nhất , Macron là một ứng viên ổn định về chính trị theo đường lối trung lập , gần như là Obama của Pháp ... Ông được coi là một nhân vật \" an toàn \" .",
+            "reference_summary": "Đồng Euro tăng mạnh, lên mức cao nhất trong năm tháng qua sau cuộc bầu cử tổng thống vòng một tại Pháp hôm Chủ Nhật 23/4.",
+            "generated_summary": "Tổng thống Pháp Emmanuel Macron cho rằng chính trị tăng 1% so với đồng Euro vào ngày 12/, trong khi các nhà đầu tư xác lập ở số nhưng vừa bầu cử của Mỹ đã đạt gần thế.",
+            "rouge_scores": {
+                "rouge1": 0.6186,
+                "rouge2": 0.2316,
+                "rougeL": 0.268,
+                "rougeLsum": 0.268
+            }
+        },
+        {
+            "id": "business-54690802",
+            "url": "https://www.bbc.com/vietnamese/business-54690802",
+            "text": "Cổ phần của ông Jack Ma trong tập đoàn Ant được cho là trịg iá 17 tỷ đôla Mỹ Ant , được tỷ phú , nhà sáng lập nền tảng thương mại điện tử Alibaba Jack Ma yểm trợ , sẽ niêm yết lượng cổ phiếu trị giá khoảng 34,4 tỷ đô la Mỹ trên thị trường chứng khoán Thượng Hải và Hong Kong . Jack Ma chụp hình selfie với khách trong một sự kiện tại Hong Kong hồi 2018 Tin tức nói cổ phần của ông Ma tại Ant có trị giá khoảng 17 tỷ đô la , khiến tài sản ròng của ông đạt mức gần 80 tỷ đô la , và ông được xác nhận là người giàu nhất Trung Quốc . Ant dự kiến sẽ niêm yết lần đầu tiên trên thị trường chứng khoán Thượng Hải và Hong Kong vào tuần tới Hãng được trông đợi là sẽ đồng thời niêm yết ở cả hai nơi là thị trường Thượng Hải và Hong Kong trong tuần tới , cho thấy tầm quan trọng ngày càng tăng của thị trường chứng khoán Hong Kong trong vai trò cổng tài chính . Theo hãng tin Bloomberg , ông Ma hôm thứ Bảy nói tại một cuộc hội thảo ở Trung Quốc rằng việc Ant niêm yết cổ phiếu trên sàn chứng khoán sẽ là một sự kiện vô cùng quan trọng đối với Thượng Hải và Hong Kong . \"",
+            "reference_summary": "Tập đoàn tài chính công nghệ khổng lồ của Trung Quốc, Ant Group, chuẩn bị bước vào thị trường chứng khoán với màn ra mắt lớn nhất thế giới.",
+            "generated_summary": "Thượng Hải và Hong Kong từ thị trường chứng khoán Trung Quốc nói sẽ niêm yết của ông.",
+            "rouge_scores": {
+                "rouge1": 0.5714,
+                "rouge2": 0.2667,
+                "rougeL": 0.3117,
+                "rougeLsum": 0.3117
+            }
+        },
+        {
+            "id": "sport-50812388",
+            "url": "https://www.bbc.com/vietnamese/sport-50812388",
+            "text": "Hàng loạt báo cáo truyền thông quan trọng dựa trên các thông tin rò rỉ cho New York Times và Hiệp hội Nhà báo Điều tra Quốc tế ( ICIJ ) cho thấy những gì đang xảy ra tại các trung tâm này , nơi được tin là đang giam giữ hơn một triệu người , chủ yếu là người Hồi giáo Uighur và các dân tộc thiểu số khác . Hạ viện Mỹ đã thông qua dự luật để phản đối cái gọi là \" giam giữ tùy tiện , tra tấn và quấy rối \" người Uighur , và kêu gọi \" trừng phạt có mục tiêu \" các thành viên của chính phủ Trung Quốc - và đã đề xuất người đầu tiên bị trừng phạt là Bí thư Đảng Cộng sản Trung Quốc tại vùng tự trị Tân Cương , ông Chen Quanguo . Các báo cáo về các trại tập trung đang được mở rộng bắt đầu xuất hiện năm 2018 , khi một ủy ban nhân quyền của Liên Hiệp Quốc được cho hay rằng có những cáo buộc đáng tin về việc Trung Quốc đã \" biến vùng tự trị Tân Cương thành một nơi giống một trại giam giữ khổng lồ \" . Tuy nhiên các chứng cứ chỉ ra rằng nhiều người bị giam giữ chỉ đơn giản do họ thể hiện đức tin của mình , bằng cách cầu nguyện hoặc che mạng , hoặc có các mối quan hệ với những người ở nước ngoài , như ở Thổ Nhĩ Kỳ .",
+            "reference_summary": "Trung Quốc nói cầu thủ Mesut Ozil của Arsenal đã \"bị tin giả lừa gạt\" nên mới chỉ trích Bắc Kinh về vấn đề người Hồi giáo Uighur.",
+            "generated_summary": "Nhà dân của Trung Quốc đang bị giam giữ tiện.",
+            "rouge_scores": {
+                "rouge1": 0.3333,
+                "rouge2": 0.1154,
+                "rougeL": 0.2222,
+                "rougeLsum": 0.2222
+            }
+        },
+        {
+            "id": "070403_chinesehouse_demolished",
+            "url": "https://www.bbc.com/vietnamese/regionalnews/story/2007/04/070403_chinesehouse_demolished",
+            "text": "Gia đình bà Vũ Bình phải từ bỏ việc bảo vệ ngôi nhà này sau khi được biết đã dàn xếp một thoả thuận với giới chức . Ngôi nhà mà gia đình bà Bình nhất định không chịu phá bị để lại trơ trọi tại khu vực xây dựng sau khi các gia đình khác đã đồng ý chuyển đi . Luật mới Chồng bà là Vũ Dương ở trong nhà cho tới tận khi nó bị phá và vẫn chăng biểu ngữ : “ Không được xâm phạm tài sản riêng của công dân ” . Bà Vũ nói khi trước là người ta đề nghị cho gia đình bà được ở một căn hộ trong khu nhà mới , hoặc sẽ trả tiền mặt , nhưng bà không chấp nhận cả hai giải pháp .",
+            "reference_summary": "Ngôi nhà một gia đình Trung Quốc mà thách thức lại các công ty phát triển địa ốc trong một chiến dịch phản đối được nhiều người biết đến cuối cùng cũng đã bị phá hủy.",
+            "generated_summary": "Vũ Bình sẽ bị tiền mặt trong việc bảo vệ ngôi nhà.",
+            "rouge_scores": {
+                "rouge1": 0.2078,
+                "rouge2": 0.08,
+                "rougeL": 0.1818,
+                "rougeLsum": 0.1818
+            }
+        },
+        {
+            "id": "160914_wada_us_athletes_hackers",
+            "url": "https://www.bbc.com/vietnamese/sport/2016/09/160914_wada_us_athletes_hackers",
+            "text": "Sau vụ việc , cô Biles nói cô từ lâu dùng thuốc cho chứng rối loạn hiếu động . Nhóm tin tặc cáo buộc cô dùng “ chất kích thích tinh thần trái phép ” nhưng cô nói luôn “ tuân thủ quy tắc ” . Các tin tặc đã tiếp cận được bộ hồ sơ ghi chép những chất cấm cho phép vận động viên sử dụng theo nhu cầu y khoa . Nga bị cấm tham gia Paralympic 2016 và nhiều vận động viên đã bị cấm dự Olympic tại Rio vì cáo buộc liên quan chương trình doping được nhà nước bảo trợ .",
+            "reference_summary": "Ủy ban chống Doping Thế giới (Wada) lên án tin tặc Nga làm lộ hồ sơ y khoa của các vận động viên Mỹ.",
+            "generated_summary": "Tổng thống tịch sử cáo buộc đã bị cấm dựng rối loạn trái phép vận động viên.",
+            "rouge_scores": {
+                "rouge1": 0.5161,
+                "rouge2": 0.1333,
+                "rougeL": 0.3871,
+                "rougeLsum": 0.3871
+            }
+        },
+        {
+            "id": "151225_gifts-for-the-extreme-adventurer-in-your-life_vert_cap",
+            "url": "https://www.bbc.com/vietnamese/culture_social/2015/12/151225_gifts-for-the-extreme-adventurer-in-your-life_vert_cap",
+            "text": "Giá : 4.443 - 12.265 đô la Canada ( 3.367 - 9.296 đô la Mỹ ) , Mike Wiegele Đi dạo với chim cánh cụt Cách bờ biển Argentina 500km , quần đảo Falkland , từng đầy rẫy các bãi mìn , giờ đây đã trở thành thiên đường hoang dã của khoảng hơn 1 triệu con chim cánh cụt từ năm giống khác nhau . Sau chỉ một vài tiếng chạy xe từ Reykjavik , các du khách có thể đi cùng với những người hướng dẫn đến các lối vào hang động trước khi bắt đầu hành trình khám phá các hang động được tạo thành từ băng đá . Từ giữa tháng Hai đến tháng Chín , loài cá mập trắng bơi gần các con tàu , nhưng trong mùa hè tại Nam Phi ( từ tháng Mười tới giữa tháng Hai ) , các du khách có thể nhìn thấy cá mập trắng trong chế độ ‘ săn mồi ’ , Cooper nói . Giá : 1.950 rand ( 138 đô la Mỹ ) Dạo chơi trên cánh đồng muối Khi du khách đến thăm các cánh đồng muối ở Bolivia , họ phải chuẩn bị tinh thần cho việc sống trong điều kiện sinh hoạt tối thiểu nhất ( không toilet công cộng hay máy sưởi trung tâm trong nhiệt độ dưới 0 độ ) , Roberto Orihuela , người đồng sáng lập La Torre Tours ở Tupiz , Bolivia , nói .",
+            "reference_summary": "Hãy quên khăn choàng cổ và nước hoa năm nay. Bạn muốn làm gia đình và bạn bè ngạc nhiên với món quà mà họ thực sự không thể quên?",
+            "generated_summary": "Tổng thống các cánh đồng muối của Việt tại Việt Nam đã bị chính trị đến thăm mùa hè.",
+            "rouge_scores": {
+                "rouge1": 0.4416,
+                "rouge2": 0.0533,
+                "rougeL": 0.2597,
+                "rougeLsum": 0.2597
+            }
+        },
+        {
+            "id": "151203_putin_warned_turkey_will_regret",
+            "url": "https://www.bbc.com/vietnamese/world/2015/12/151203_putin_warned_turkey_will_regret",
+            "text": "Ông Putin mở đầu diễn văn bằng lời ca ngợi quân nhân thiệt mạng trong vụ máy bay SU24 bị bắn rơi Trong bài diễn văn toàn quốc được phát trực tiếp trên truyền hình Nga , ông nói “ nếu có bất kỳ ai nghĩ rằng phản ứng của Nga chỉ dừng lại ở cấm vận thương mại , thì họ nhầm lớn ” . Nga tiến hành một phút im lặng tưởng nhớ các nạn nhân khủng bố , trong đó có 224 người thiệt mạng khi một quả bom làm nổ tung chiếc máy bay của hàng không Nga đang bay trên sa mạc Sinai của Ai Cập hôm 31 / 10 . ” Ông nói ông phân biệt rất rõ giữa giới lãnh đạo Thổ Nhĩ Kỳ với “ rất nhiều người bạn lâu năm và đáng tin cậy ở Thổ Nhĩ Kỳ ” của Nga . Người Nga nay cũng không thể đi du lịch trọn gói tới Thổ Nhĩ Kỳ , tuy đây là điểm du lịch ở nước ngoài được ưa chuộng nhất trong tháng qua của du khách Nga .",
+            "reference_summary": "Tổng thống Nga Vladimir Putin cảnh báo lãnh đạo Thổ Nhĩ Kỳ sẽ phải hối hận vì đã bắn hạ phi cơ ném bom SU-24 của Nga ở Syria.",
+            "generated_summary": "Tổng Trung Quốc tổng thống Nga Vladimir Putin nói ông của Nga, trong một nạn nhân khống độc lịch ở thổ Nhĩ Kỳ.",
+            "rouge_scores": {
+                "rouge1": 0.6111,
+                "rouge2": 0.2857,
+                "rougeL": 0.3611,
+                "rougeLsum": 0.3611
+            }
+        },
+        {
+            "id": "040312_putinsystem",
+            "url": "https://www.bbc.com/vietnamese/worldnews/story/2004/03/040312_putinsystem",
+            "text": "Trước hết , thắng lợi của ông Putin là chỉ dấu cho thấy sự toàn thắng của phe nhóm quanh ông , những ông chủ của nước Nga từ bốn năm qua . Các cơ quan truyền thông cũng không làm gì khác hơn là liên tục đưa tin về các chuyến viếng thăm của ông Putin . Tuy còn một vài tờ báo độc lập và có đài Ekho Moskvy vẫn thỉnh thoảng nói những chuyện ‘ gây tranh cãi ’ những nhìn chung thì ông Putin và phe nhóm của ông kiểm soát hoàn toàn giới truyền thông . Theo Valery Fedorov , giám đốc Trung tâm Nghiên cứu Dư luận Nga , một cơ quan của chính phủ thì tin rằng ‘ Putin hiểu ý nghĩa của tính chính danh cho quyền lực và sẽ tiến tới chỗ thiết lập một hệ thống đa đảng thực sự ’ .",
+            "reference_summary": "Cuộc bầu cử tống thống tổ chức vào chủ nhật 14/03 này ở Nga có kết quả được đoán trước là đương kim tổng thống Vladimir Putin sẽ thắng.",
+            "generated_summary": "Chủ cựu Trung tâm Nghiên cứu Dư luận Nga sẽ tiến tới các cuộc truyền thông của ông Vladimir Putin.",
+            "rouge_scores": {
+                "rouge1": 0.4533,
+                "rouge2": 0.137,
+                "rougeL": 0.32,
+                "rougeLsum": 0.32
+            }
+        },
+        {
+            "id": "world-40178140",
+            "url": "https://www.bbc.com/vietnamese/world-40178140",
+            "text": "Máy bay Qatar bị cấm vào không phận Ai Cập và Saudi Năm điều về Qatar có thể bạn chưa biết \" Họ nói sẽ cứng rắn với việc cấp tiền cho cực đoan , và tất cả đều chỉ vào Qatar . Tổng thống Donald Trump đọc diễn văn ở Riyadh , Ả Rập Saudi hôm 21 / 5 Ông Trump nói khi thăm Ả Rập Saudi mới đây , ông được cho hay Qatar đang tài trợ \" ý thức hệ cực đoan \" . Diễn văn của ông Trump tại thủ đô của Ả Rập Saudi , lên án Iran và thúc giục các nước Hồi giáo chống cực đoan , được xem là khuyến khích các nước vùng Vịnh chống lại Qatar . Cùng trong tuần ông Trump thăm Ả Rập Saudi , các nước gồm Ai Cập , Ả Rập Saudi , Bahrain và UAE đã chặn các trang tin của Qatar gồm cả al - Jazeera .",
+            "reference_summary": "Tổng thống Mỹ Donald Trump đã lên tiếng về cuộc khủng hoảng ngoại giao sau khi nhiều nước Ả Rập cắt đứt quan hệ với Qatar.",
+            "generated_summary": "Tổng thống Qatar Donald Trump đã tổ chức hệ cực đoan của Ả Rập Saudi.",
+            "rouge_scores": {
+                "rouge1": 0.5,
+                "rouge2": 0.1852,
+                "rougeL": 0.3571,
+                "rougeLsum": 0.3571
+            }
+        },
+        {
+            "id": "071103_unenvoy_burma",
+            "url": "https://www.bbc.com/vietnamese/regionalnews/story/2007/11/071103_unenvoy_burma",
+            "text": "Ông Gambari tới Miến Điện một ngày sau khi chính quyền quân sự quyết định trục xuất ông Charles Petrie , người đứng đầu của LHQ tại nước này . Cách đây một tuần ông Petrie , người nắm giữ chức vụ này từ năm 2003 , đã đưa ra một tuyên bố chỉ trích tình trạng khủng hoảng kinh tế trầm trọng của Miến Điện . ' Một số người cho rằng chính quyền Miến Điện quyết định như vậy vào thời điểm này nhằm buộc ông Gambari dành hết thời gian trong chuyến viếng thăm để trao đổi về LHQ thay vì trao đổi về cải cách . Theo phóng viên của BBC , James Reynolds tại Thái Lan , chuyến đi của ông Gambari lần này không phải là một chuyến đi dễ dàng .",
+            "reference_summary": "Đặc sứ của LHQ Ibrahim Gambari sẽ tới Miến Điện lần thứ hai kể từ khi các cuộc biểu tình chống chính phủ xẩy ra vào tháng Chín.",
+            "generated_summary": "Chính quyền Miến Điện tại Việt Nam đã thay đổi một số chuyến đi của nước này.",
+            "rouge_scores": {
+                "rouge1": 0.4857,
+                "rouge2": 0.1765,
+                "rougeL": 0.2286,
+                "rougeLsum": 0.2286
+            }
+        },
+        {
+            "id": "131025_germany_us_spying_row",
+            "url": "https://www.bbc.com/vietnamese/world/2013/10/131025_germany_us_spying_row",
+            "text": "Thủ tướng Đức nói việc các đồng minh do thám lẫn nhau là \" không thể chấp nhận \" Một thông cáo chung của các nhà lãnh đạo nói rằng \" việc thiếu tin tưởng có thể tạo định kiến \" trong việc hợp tác thu thập thông tin tình báo . Thông điệp của bà Merkel được đưa ra sau khi có cáo buộc rằng điện thoại di động của bà và hàng triệu cuộc điện thoại từ Pháp bị Cơ quan An ninh Quốc gia Mỹ ( NSA ) nghe lén . Phát biểu sau ngày đầu tiên của hội nghị , bà Merkel nói Pháp và Đức muốn \" thiết lập một thỏa thuận khung \" với Mỹ về hoạt động do thám . Trong một diễn biến khác , tờ Guardian của Anh cũng dẫn lời Edward Snowden nói điện thoại của 35 lãnh đạo quốc tế đã từng bị NSA theo dõi , sau khi một quan chức chính phủ Mỹ đưa số điện thoại của họ cho cơ quan này .",
+            "reference_summary": "Lãnh đạo EU họp tại Brussels nói cáo buộc Hoa Kỳ nghe lén có thể làm tổn hại tới nỗ lực chia sẻ thông tin chống khủng bố.",
+            "generated_summary": "Một lãnh đạo của Mỹ nói rằng điện thoại diễn biến từng một nhà nước này sẽ có thể lập thông tin những người trong các cuộc định kiế.",
+            "rouge_scores": {
+                "rouge1": 0.6154,
+                "rouge2": 0.2247,
+                "rougeL": 0.3736,
+                "rougeLsum": 0.3736
+            }
+        },
+        {
+            "id": "150801_no_gay_adultery_uk_law",
+            "url": "https://www.bbc.com/vietnamese/world/2015/08/150801_no_gay_adultery_uk_law",
+            "text": "Luật áp dụng ở Anh và xứ Wales đòi việc ly hôn phải được căn cứ trên một trong năm lý do cụ thể , trong đó có việc ngoại tình \" Tôi là một trong những người mạnh mẽ , và có những người khác cũng giống tôi , những người phải chịu đựng và phải tiếp tục chịu đựng về chuyện này , \" bà nói . \" Bà cho rằng là người đồng tính không có gì đáng xấu hổ , nhưng điều quan trọng là mọi người cần phải là chính mình thay vì tự dối lừa bản thân và dối lừa những người khác . Luật pháp ở Scotland và Bắc Ireland thì quy định khác , nhưng trên toàn lãnh thổ Anh Quốc thì ngoại tình được định nghĩa giống nhau , và luật ly hôn quy định rằng những người muốn ly hôn phải chứng minh được rằng có những lý do xác đáng để họ có thể yêu cầu chấm dứt cuộc hôn nhân . Theo các tiền lệ , án lệ thì ngoại tình được định nghĩa là \" sự giao hợp tự nguyện giữa một người đàn ông và một người đàn bà chưa kết hôn với nhau , nhưng một trong hai người hoặc cả hai người đã kết hôn với người khác \" , theo Jonathan West , người đứng đầu bộ phận chuyên về hôn nhân và gia đình tại hãng luật Prolegal . \"",
+            "reference_summary": "Một phụ nữ ở Anh, người đã không thể ly hôn với lý do chồng ngoại tình với những người đàn ông khác, muốn pháp luật phải thay đổi.",
+            "generated_summary": "Luật áp dụng với những người đàn bà ở Anh và Bắc Ireland đã tạo hội sẽ được yêu định nghĩa giữa một người của mình.",
+            "rouge_scores": {
+                "rouge1": 0.5366,
+                "rouge2": 0.225,
+                "rougeL": 0.3171,
+                "rougeLsum": 0.3171
+            }
+        },
+        {
+            "id": "vietnam-46859781",
+            "url": "https://www.bbc.com/vietnamese/vietnam-46859781",
+            "text": "Nhiều người Việt quan tâm đến việc mua bán hàng trên Amazon Website của Bộ Công thương hôm 15 / 1 cho hay : \" Cục Xúc tiến Thương mại chính thức hợp tác với Amazon Global Selling , với mục tiêu hỗ trợ doanh nghiệp Việt Nam , đặc biệt là doanh nghiệp vừa và nhỏ , đẩy mạnh xúc tiến xuất khẩu và phát triển thương hiệu thông qua thương mại điện tử . \" \" Việc hợp tác này sẽ giúp các doanh nghiệp Việt Nam tiếp cận được với hơn 300 triệu khách hàng , trong đó có hơn 100 triệu khách hàng Prime tại nhiều thị trường khác nhau của Amazon , cũng như hàng triệu đại lý mua hàng sỉ ở Mỹ , châu Âu và Nhật , \" website nêu trên viết . Thị trường Việt Nam khá bé ' Hôm 16 / 1 , ông Sam Đỗ , giám đốc điều hành SAMASER Holdings , nói với BBC : \" Theo như tôi hiểu , Amazon Global Selling sẽ trợ giúp về mảng cung ứng , đem nhiều cái lợi cho các nhà sản xuất vừa và nhỏ của Việt Nam ra thế giới . \" Hồ Chí Minh , nói : \" Trong vụ này , tôi chỉ quan tâm chuyện Amazon có khả năng sẽ báo cáo đầy đủ về doanh thu mua bán của các người bán hàng là người Việt cho cơ quan thuế ở Việt Nam , dù doanh thu của nhà bán hàng FBA ( lưu kho và chuyển hàng cho các người bán trên Amazon ) phát sinh tại Mỹ . \"",
+            "reference_summary": "Tin công ty Amazon vào Việt Nam được đón nhận bằng những ý kiến và phản ứng khác nhau.Một doanh nhân nói với BBC rằng tin Amazon hợp tác với Cục Xúc tiến Thương mại Việt Nam \"đem nhiều cái lợi cho các nhà sản xuất vừa và nhỏ của Việt Nam ra thế giới\".",
+            "generated_summary": "Các nhà sản xuất tại Trung Quốc (Amazon Global Selling).",
+            "rouge_scores": {
+                "rouge1": 0.2136,
+                "rouge2": 0.1188,
+                "rougeL": 0.1748,
+                "rougeLsum": 0.1748
+            }
+        },
+        {
+            "id": "060708_pirates",
+            "url": "https://www.bbc.com/vietnamese/culturesport/story/2006/07/060708_pirates",
+            "text": "Doanh thu từ vé đặt trước cho bộ phim vừa ra có sự góp mặt của Johnny Depp và Keira Knightley này đã đạt mức 1 triệu bảng . Một số nhà phần tích phim đang dự báo rằng bộ phim sẽ thu về hơn 100 triệu đô la Mỹ trong ba ngày đầu tiên . Bộ phim sẽ ra mắt tại 4.133 địa điểm trên toàn nước Mỹ , và đây là màn ra mắt lớn thứ ba , chỉ sau Spider Man 2 và Shrek 2 . Bộ phim thứ ba dự định hoàn thành năm sau sẽ có sự góp mặt của ca sĩ nhạc rock Keith Richards trong vai cha của thuyền trưởng Jack Sparrow do Johnny Depp đóng .",
+            "reference_summary": "Phim Cướp biển Caribbe đã thu về 2,3 triệu bảng tại Anh chỉ trong ngày đầu tiên ra mắt, doanh số trong ngày đầu cao nhất của Disney.",
+            "generated_summary": "Câu sỹ nhạc rock Keith Depp đã vào những trong ba ngày đầu tiên.",
+            "rouge_scores": {
+                "rouge1": 0.4483,
+                "rouge2": 0.1429,
+                "rougeL": 0.3103,
+                "rougeLsum": 0.3103
+            }
+        },
+        {
+            "id": "media-44858777",
+            "url": "https://www.bbc.com/vietnamese/media-44858777",
+            "text": "Thời gian làm việc IOM trong chương trình giúp người nhập cư ( hợp pháp và bất hợp pháp ) hồi hương và hòa nhập lại vào cộng đồng của mình cũng là khi cô nhận ra rằng không phải ai tới Anh Quốc cũng có điều kiện hòa nhập cuộc sống của người nhập cư . \" Với đam mê muốn được giới thiệu văn hóa Việt Nam vào Anh , cô chia sẻ kinh nghiệm khởi nghiệp khi mở tiệm Bánh Mì Leo tại Greenwich , phía đông nam London , đưa ẩm thực đường phố cùa Việt Nam tới người dân địa phương , với hy vọng : \" Khi người Anh tiếp xúc với văn hóa Việt Nam tại nước Anh sẽ khuyến khích họ có đam mê tới Việt Nam , tham quan và tận mắt nhìn thấy Việt Nam . \" Đồng thời với suy nghĩ rằng \" nếu học sinh Việt Nam được tiếp cận với văn hóa Anh càng sớm thì các em sẽ có cơ hội quyết định cho mình những hướng đi trong tương lai \" , năm 2017 Heidi Bennett bắt đầu tổ chức tổ chức chương trình trại hè cho học sinh cấp hai sang thăm quan nước Anh , qua đó các em có điều kiện tiếp cận với văn hóa Anh . Anh - Việt : ‘ Bức tranh tổng quan rất tích cực ’ Từ Điện Biên đến Canary Wharf , London Đại sứ Anh : ' Người dân VN đầy khát vọng tương lai ' Trần Thu Hà hát ' Mẹ tôi ' tặng BBC Nhân kỷ niệm 45 năm quan hệ ngoại giao Anh - Việt , BBC sẽ tiếp tục giới thiệu các gương mặt tiêu biểu của người Việt hoặc gốc Việt tại Anh trong những tuần tới .",
+            "reference_summary": "Tốt nghiệp Đại học Ngoại giao tại Hà Nội và có bằng Thạc sĩ về Phát triển quốc tế tại Đại học Leeds, Anh Quốc, Heidi (Hương) Bennett bắt đầu cuộc sống của một người nhập cư tại Anh sau khi xin được việc làm cho Tổ chức Nhập cư Quốc tế (IOM).",
+            "generated_summary": "Chủ tịch IOM sẽ những gọi văn hóa Việt Nam đã hòa nhập cư.",
+            "rouge_scores": {
+                "rouge1": 0.3333,
+                "rouge2": 0.08,
+                "rougeL": 0.2157,
+                "rougeLsum": 0.2157
+            }
+        },
+        {
+            "id": "160329_art_basel_hongkong",
+            "url": "https://www.bbc.com/vietnamese/vietnam/2016/03/160329_art_basel_hongkong",
+            "text": "Nếu so với Art Stage Singapore 2016 hồi 21 đến 24 tháng 1 , nơi có nhiều nghệ sĩ Việt ( và gốc Việt ) hiện diện , thì đến Art Basel Hong Kong 2016 gần như chỉ có mỗi Dinh Q. Lê . Tác phẩm của Lê Triều Điển tại Art Central Hong Kong 2016 Nhưng tất cả điều đó lại là điểm tìm kiếm của phòng tranh Dumonteil , nơi đã mua gần 100 tác phẩm của Lê Triều Điển với giá phải chăng . Với hai sự kiện như ở trên , các phòng tranh tham dự có thể gặp khó khăn về chi phí và giám tuyển , nhưng sự kiện như Asia Contemporary Art Show thì Việt Nam có nhiều phòng tranh đáp ứng được . Nhưng cũng có một tín hiệu mới , đó là năm nay một tổ chức nghệ thuật ở Sài Gòn , cũng như nhiều nghệ sĩ tiếng tăm tại Việt Nam như Đào Châu Hải , Bùi Hải Sơn , Lê Quảng Hà , Lê Kinh Tài , Huỳnh Phú Hà ... đã chủ động đến Hong Kong để tìm hiểu mô hình .",
+            "reference_summary": "Đến đặc khu Hong Kong trong tháng 3 này, du khách dễ dàng nhận ra các bảng hiệu cho thấy đang có tháng nghệ thuật (Hong Kong Arts Month) quanh mình.",
+            "generated_summary": "Nhận tại Lê Triều Điển đã tìm hiểu môt tác phẩm của các phòng tranh thuật ở Sài Gòn.",
+            "rouge_scores": {
+                "rouge1": 0.3733,
+                "rouge2": 0.1096,
+                "rougeL": 0.2133,
+                "rougeLsum": 0.2133
+            }
+        },
+        {
+            "id": "150204_airplanes_safety",
+            "url": "https://www.bbc.com/vietnamese/world/2015/02/150204_airplanes_safety",
+            "text": "Hình ảnh vụ tai nạn máy bay gần Đài Bắc đã được camera ghi lại Sau các vụ tai nạn nổi tiếng của hai chuyến bay Malaysia Airlines và một chiếc thuộc AirAsia hồi năm ngoái , nay chúng ta đang tự hỏi liệu có phải việc di chuyển bằng đường hàng không đang trở nên nguy hiểm hơn . Nhưng bản thân vụ tai nạn đáng buồn lại là điều khá quen thuộc - là vụ mới nhất trong hàng loạt các vụ tai nạn hàng không diễn ra một cách ngày càng đều đặn hơn . Năm ngoái rõ ràng là năm tồi tệ hơn so với những năm khác , với số người thiệt mạng trong các vụ tai nạn hàng không dân dụng lên tới 986 , mà riêng của Malaysia Airlines đã là 537 người . Nhưng các hãng hàng không dân dụng trên thế giới cũng đã có một năm chuyên chở với lượng hành khách kỷ lục trong năm ngoái , với 3,3 tỷ lượt hành khách trên 27 triệu chuyến bay , theo một tường thuật an toàn đăng trên trang mạng AirlineRatings .",
+            "reference_summary": "Ít nhất 12 người thiệt mạng sau khi chiếc phi cơ của hãng TransAsia Airways vướng vào một cây cầu rồi lao xuống sông gần thủ đô Đài Bắc của Đài Loan.",
+            "generated_summary": "Cuộc vụ tai nạn hàng không dân dụng đang được tiêucội trong năm ngoái.",
+            "rouge_scores": {
+                "rouge1": 0.3014,
+                "rouge2": 0.0282,
+                "rougeL": 0.2192,
+                "rougeLsum": 0.2192
+            }
+        },
+        {
+            "id": "world-46710361",
+            "url": "https://www.bbc.com/vietnamese/world-46710361",
+            "text": "Xe buýt chở du khách Việt Nam bị tấn công ở tỉnh Giza Ba người Việt chết trong vụ đánh bom ở Ai Cập Bộ nội vụ Ai Cập không giải thích liệu vụ giết dân quân có liên quan vụ nổ bom xe buýt chở du khách Việt Nam không . Ai Cập nói an ninh đã giết 30 người tại Giza , nơi mà chính quyền nói \" khủng bố \" đang dự định hàng loạt vụ tấn công . Theo truyền thông Việt Nam ngày 29 / 12 , Đại sứ quán Việt Nam tại Ai Cập cho biết khi xảy ra vụ nổ bom , trên chiếc xe trên có 18 người , trong đó có 15 người Việt Nam và 3 người Ai Cập . Hiện nay , Ai Cập thông báo có 3 du khách Việt Nam thiệt mạng , và một người Ai Cập tử vong vì vụ xe buýt bị trúng bom cài ven đường .",
+            "reference_summary": "An ninh Ai Cập giết 40 nghi phạm dân quân trong ba vụ riêng rẽ tại Bắc Sinai và Giza, theo tuyên bố chính phủ hôm 29/2, một ngày sau vụ nổ bom chết người khi xe du lịch chở đoàn du khách Việt Nam bị trúng bom cài ven đường ở Giza.",
+            "generated_summary": "Bộ nội vụ tấn công ở Ai Cập bị bắt thế giới.",
+            "rouge_scores": {
+                "rouge1": 0.3516,
+                "rouge2": 0.0449,
+                "rougeL": 0.1758,
+                "rougeLsum": 0.1758
+            }
+        },
+        {
+            "id": "050521_facup",
+            "url": "https://www.bbc.com/vietnamese/sport/story/2005/05/050521_facup",
+            "text": "Thủ môn Jens Lehmann đã đẩy được trái bóng từ cú sút của Paul Scholes mang về chiến thắng cho Arsenal . United ra về tay không sau nhiều tình huống không may mắn - Wayne Rooney đá bật cột dọc và Freddie Ljungberg cản phá được cú đánh đầu của Ruud van Nisterooy bật xà ngang . Man U đã giành thế chủ động trong hầu hết trận đấu , nhưng thủ môn người Đức Lehmann đang ở phong độ tốt đã cản phá thành công cú sút của Scholes trong hiệp phụ và sau đó lại bảo vệ được khung thành ở đúng lượt sút luân lưu của Scholes . Những cầu thủ nổi tiếng của Manchester như Ruud van Nisterooy , Cristiano Ronaldo , Wayne Rooney và Roy Keane đều đã thực hiện những cú sút 11 mét tuyệt vời , nhưng chân sút của phía Arsenal cũng không kém phần hoàn hảo .",
+            "reference_summary": "Arsenal đã thắng ở loạt đá luân lưu 11 mét để giành cúp FA trong một trận chung kết mà ưu thế hoàn toàn thuộc về Manchester United.",
+            "generated_summary": "Thủ môn Manchester United đã bắt sống thành công cú sút của Paul Scholes, nổi tiếng đang đánh từ vào rooney.",
+            "rouge_scores": {
+                "rouge1": 0.4478,
+                "rouge2": 0.0615,
+                "rougeL": 0.2687,
+                "rougeLsum": 0.2687
+            }
+        },
+        {
+            "id": "121002_acb_commentary",
+            "url": "https://www.bbc.com/vietnamese/vietnam/2012/10/121002_acb_commentary",
+            "text": "com từ Úc Vụ việc ACB nêu bật nhu cầu cải tổ khu vực ngân hàng ở Việt Nam Ngân hàng Nhà nước Việt Nam đã đứng đằng sau ACB và khiến thị trường bình tĩnh trở lại sau vụ tháo chạy nhỏ lúc đầu . Tăng trưởng tín dụng của các ngân hàng tư nhân có lúc tăng gần 95 % trong một năm , thổi bùng lên bóng bóng bất động sản và chứng khoán , lạm phát 28 % và thâm hụt vãng lai tăng mạnh . Ở mặt tích cực , đã có năm ngân hàng 100 % vốn nước ngoài được thành lập ( trong đó có HSBC , ANZ , Standard Chartered ) . Bất chấp những khó khăn phía trước , nếu chính phủ có thể tiếp tục dọn sạch khu vực ngân hàng tư nhân nội địa , tư nhân hóa một số phần của khu vực ngân hàng thương mại quốc doanh ( như Trung Quốc đã làm ) , và tiếp tục cải tổ doanh nghiệp quốc doanh , không có lý do để lo ngại đầu tư nước ngoài sẽ cạn đi trong trung và dài hạn .",
+            "reference_summary": "Ngân hàng Á Châu (ACB) là một trong 35 ngân hàng cổ phần ngoài nhà nước ở Việt Nam. Đây được xem là một ngân hàng tương đối lớn và khá ăn nên làm ra trước khi xảy ra vụ Bấm thất thoát 718 tỷ đồng (34 triệu đôla).",
+            "generated_summary": "Các ngân hàng tại Việt Nam đã đứng là những năm lập rối trong khu vực ngành hàng tư nhân ở Trung Quốc.",
+            "rouge_scores": {
+                "rouge1": 0.5333,
+                "rouge2": 0.1748,
+                "rougeL": 0.3238,
+                "rougeLsum": 0.3238
+            }
+        },
+        {
+            "id": "041117_japan_constitution",
+            "url": "https://www.bbc.com/vietnamese/regionalnews/story/2004/11/041117_japan_constitution",
+            "text": "Dự luật này được biết sẽ cho phép quân Nhật tham gia các chiến dịch an ninh đa quốc gia trên thế giới , lần đầu tiên kể từ sau năm 1945 . Phóng viên BBC ở Tokyo nói các nước láng giềng từng chịu cảnh chiếm đóng của quân Nhật theo suy đoán sẽ không cảm thấy thoải mái về chuyện này . Hiện tại , Nhật Bản đã có hơn 500 lính làm nhiệm vụ nhân đạo ở Iraq , là đợt chuyển quân ra nước ngoài lớn nhất kể từ sau Đệ nhị thế chiến . Theo giải thích của phóng viên tại chỗ thì để đến được thời điểm thay đổi này có hiệu lực cần phải mất vài tháng cho giai đoạn lập pháp .",
+            "reference_summary": "Đảng cầm quyền ở Nhật Bản lên kế hoạch trình bày dự luật thay đổi hiến pháp.",
+            "generated_summary": "Nhân đạo tại Tokyo đã thay đổi của quân Nhật bản sẽ chịu định đối với một nền kinh tế.",
+            "rouge_scores": {
+                "rouge1": 0.4912,
+                "rouge2": 0.1091,
+                "rougeL": 0.3158,
+                "rougeLsum": 0.3158
+            }
+        },
+        {
+            "id": "media-43872194",
+            "url": "https://www.bbc.com/vietnamese/media-43872194",
+            "text": "Bị cáo , được nêu danh tính viết tắt là Long N. H. 47 tuổi , bị cáo buộc là đã thuê và lái chiếc xe van được dùng để bắt cóc ông Trịnh Xuân Thanh hồi cuối tháng Bảy năm ngoái tại Berlin . Ông Long , người sống nhiều năm tại Cộng hòa Czech , bị cáo buộc là đã thuê hai chiếc xe cho điệp vụ này . \" Ông Trịnh Xuân Thanh thông qua luật sư đại diện tuyên bố ông là nguyên cáo trong vụ việc , và tuyên bố này \" đã được tòa án chấp nhận \" . Xem thêm : Đức ' điều tra tướng công an VN ' Trịnh Xuân Thanh bị tuyên chung thân lần hai VN ‘ chặn luật sư Đức của ông Trịnh Xuân Thanh ’ VN : Chấp nhận trả giá đối ngoại vì đối nội ?",
+            "reference_summary": "Phiên tòa xử nghi phạm tham gia vụ bắt cóc ông Trịnh Xuân Thanh bắt đầu diễn ra từ sáng thứ Ba, 24/4/2018.",
+            "generated_summary": "Ông Trịnh Xuân Thanh bị tuyên cáo buộc trong vụ việc của người vào tháng Bảy.",
+            "rouge_scores": {
+                "rouge1": 0.4839,
+                "rouge2": 0.2333,
+                "rougeL": 0.3226,
+                "rougeLsum": 0.3226
+            }
+        },
+        {
+            "id": "080329_heathrow_t5",
+            "url": "https://www.bbc.com/vietnamese/worldnews/story/2008/03/080329_heathrow_t5",
+            "text": "Một phần năm các chuyến bay xuất phát từ nhà ga này đã bị hủy bỏ trong hôm Thứ Bảy , chiếm 67 trong tổng số 330 chuyến bay dự kiến . Nhà ga số 5 vừa được khai trương trong buổi lễ kèn trống tưng bừng hôm Thứ Năm , nhưng các trục trặc trong hệ thống dây chuyền phân phối trả hành lý và \" công tác làm quen của nhân viên \" đã nhanh chóng khiến cho việc vận hành bị trật đường ray . Hãng BAA điều hành sân bay cũng xác nhận rằng có một \" lượng nhỏ \" các xe nâng ở sân ga không làm việc hôm Thứ Bảy , nhưng nói chúng không thuộc khu vực giành cho hành khách và không gây ảnh hưởng cho việc lưu chuyển khách . Hãng cũng đang bị chỉ trích về việc mức trần chi trả cho việc nghỉ trọ khách sạn đối với các trường hợp bị hoãn chuyến .",
+            "reference_summary": "Các trục trặc về vận chuyển hành lý khiến các chuyến bay bị trì hoãn hoặc hủy bỏ, gây cảnh khổ sở cho các hành khách dùng dịch vụ của hãng British Airways.",
+            "generated_summary": "Tổng thống các hành nữ hiệu đã bị hủy bỏ việc nghỉ trọ khách từ khu vực sân bay.",
+            "rouge_scores": {
+                "rouge1": 0.3902,
+                "rouge2": 0.025,
+                "rougeL": 0.1707,
+                "rougeLsum": 0.1707
+            }
+        }
+    ],
+    "aggregate_rouge": {
+        "rouge1": 0.4497,
+        "rouge2": 0.1278,
+        "rougeL": 0.2645,
+        "rougeLsum": 0.2645
+    },
+    "aggregate_bertscore_f1": 0.7148,
+    "aggregate_bertscore_precision": 0.735,
+    "aggregate_bertscore_recall": 0.6962
+}
